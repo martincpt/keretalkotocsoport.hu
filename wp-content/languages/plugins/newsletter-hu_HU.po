@@ -1,0 +1,2070 @@
+# Translation of Plugins - Newsletter - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - Newsletter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-29 21:58:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - Newsletter - Stable (latest release)\n"
+
+#: subscription/antibot.php:55
+msgid "Disable antibot"
+msgstr "Antibot letiltása"
+
+#: subscription/antibot.php:130 subscription/antibot.php:139
+msgid "One per line"
+msgstr "Soronként egy"
+
+#: main/main.php:343
+msgid "Execute shortcodes on newsletters"
+msgstr "Rövidkód végrehajtása hírlevelekben"
+
+#: subscription/defaults-profile.php:34
+msgid "A mandatory field is not filled in"
+msgstr "Kötelező mező kitöltetlen"
+
+#: includes/controls.php:847
+msgid "Configure"
+msgstr "Beállítás"
+
+#: main/main.php:275
+msgid "Allowed roles"
+msgstr "Megengedett szerepkörök"
+
+#: plugin.php:471
+msgid "Addons"
+msgstr "Bővítmények"
+
+#: plugin.php:458
+msgid "Company info"
+msgstr "Céginformáció"
+
+#: plugin.php:462
+msgid "Settings and More"
+msgstr "Beállítások és egyebek"
+
+#: emails/edit.php:375
+msgid "Preview"
+msgstr "Előnézet"
+
+#: users/index.php:122
+msgid "Add a subscriber"
+msgstr "Feliratkozó hozzáadása"
+
+#: emails/blocks/posts/options.php:83
+msgid "Filters"
+msgstr "Szűrők"
+
+#: emails/blocks/posts/options.php:50
+msgid "Two columns"
+msgstr "Két oszlop"
+
+#: emails/blocks/posts/options.php:49
+msgid "One column"
+msgstr "Egy oszlop"
+
+#: emails/edit.php:537
+msgid "Convert to HTML newsletter"
+msgstr "Átalakítás HTML hírlevéllé"
+
+#: emails/edit.php:374
+msgid "Advanced"
+msgstr "Haladó"
+
+#: emails/edit.php:373
+msgid "Sending Options"
+msgstr "Küldési opciók"
+
+#: emails/edit.php:355
+msgid "Scheduled on"
+msgstr "Ütemezve ekkor"
+
+#: emails/edit.php:344
+msgid "Status:"
+msgstr "Státusz:"
+
+#: emails/edit.php:324
+msgid "Schedule delivery?"
+msgstr "Ütemezzük a küldést?"
+
+#: emails/edit.php:320
+msgid "Send now"
+msgstr "Azonnali küldés"
+
+#: emails/edit.php:255
+msgid "Scheduled."
+msgstr "Ütemezve."
+
+#: emails/edit.php:253
+msgid "Now sending."
+msgstr "Küldés folyamatban."
+
+#: includes/fields.php:392
+msgid "Terms"
+msgstr "Feltételek"
+
+#: emails/blocks/posts/options.php:57
+msgid "Excerpt font"
+msgstr "Idézet betűtípusa"
+
+#: emails/edit.php:361
+msgid "Targeted subscribers"
+msgstr "Célzott feliratkozók"
+
+#: emails/tnp-composer/index-v2.php:114 emails/tnp-composer/index.php:103
+msgid "Send a test"
+msgstr "Próba küldése"
+
+#: emails/emails.php:965 emails/emails.php:971
+#: emails/tnp-composer/index-v2.php:108 emails/tnp-composer/index.php:97
+msgid "Test subscribers:"
+msgstr "Próba címzettek"
+
+#: emails/tnp-composer/index-v2.php:70 emails/tnp-composer/index.php:69
+msgid "Mobile Preview"
+msgstr "Mobil előnézet"
+
+#: emails/tnp-composer/index-v2.php:68 emails/tnp-composer/index.php:68
+msgid "Blocks"
+msgstr "Blokkok"
+
+#: emails/editorhtml.php:98 emails/composer.php:91 emails/editortinymce.php:115
+msgid "Back to last save"
+msgstr "Utolsó mentés visszaállítása"
+
+#: emails/emails.php:942
+msgid "Newsletter should be saved before send a test"
+msgstr "A hírlevelet ki kell menteni a próba előtt"
+
+#: emails/emails.php:140
+msgid "Choose a preset:"
+msgstr "Beállítás kiválasztása"
+
+#: emails/tnp-composer/index-v2.php:125 emails/tnp-composer/index.php:114
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: users/index.php:165
+msgid "Delete selected"
+msgstr "Kiválasztottak törlése"
+
+#: users/massive.php:275
+msgid "subscribers without a language"
+msgstr "Nyelv nélküli címzettek"
+
+#: users/massive.php:274
+msgid "Set to"
+msgstr "Beállítás erre"
+
+#: users/statistics.php:112
+msgid "Without language"
+msgstr "Nyelv nélküli"
+
+#: tnp-header.php:105
+msgid "Start your new campaign"
+msgstr "Kezdd el új kampányodat"
+
+#: tnp-header.php:104
+msgid "Create newsletter"
+msgstr "Hírlevél létrehozása"
+
+#: emails/tnp-composer/edit.php:22
+msgid "WIDTH"
+msgstr "SZÉLESSÉG"
+
+#: tnp-header.php:165 tnp-header.php:175
+msgid "Get Professional Addons"
+msgstr "Professzionális bővítmények vásárlása"
+
+#: emails/emails.php:969 emails/emails.php:977
+msgid "Read more about delivery issues"
+msgstr "További információ a kézbesítési problémákról"
+
+#: emails/blocks/hero/options.php:24
+msgid "Image"
+msgstr "Kép"
+
+#: emails/blocks/cta/options.php:19
+msgid "Width"
+msgstr "Szélesség"
+
+#: includes/controls.php:1650
+msgid "Install a multilanguage plugin."
+msgstr "Többnyelvű bővítmény telepítése."
+
+#: emails/blocks/posts/options.php:53
+msgid "Title font"
+msgstr "Cím betűtípusa"
+
+#: emails/blocks/posts/options.php:62
+msgid "Show image"
+msgstr "Kép megjelenítése"
+
+#: includes/controls.php:1681
+msgid "Your multilanguage plugin is not supported or there are no languages defined"
+msgstr "A többnyelvű plugin nem támogatott, vagy nincsenek definiált nyelvek"
+
+#: includes/controls.php:1674
+msgid "Install WPML or Polylang for multilanguage support"
+msgstr "Telepítsd a WPML-t vagy a Polylang-ot többnyelvűség támogatására"
+
+#: users/index.php:36
+msgid "Welcome email sent."
+msgstr "Üdvözlő e-mail elküldve."
+
+#: users/index.php:30
+msgid "Activation email sent."
+msgstr "Aktiválási email elküldve."
+
+#: unsubscription/index.php:87
+msgid "On error"
+msgstr "Hiba esetén"
+
+#: emails/blocks/posts/options.php:65
+msgid "Show date"
+msgstr "Dátum megjelenítése"
+
+#: users/edit.php:154 profile/profile.php:253 emails/edit.php:406
+#: includes/fields.php:422
+msgid "Language"
+msgstr "Nyelv"
+
+#: emails/blocks/hero/options.php:31
+msgid "Button"
+msgstr "Gomb"
+
+#: includes/fields.php:498
+msgid "Padding"
+msgstr "Párnázás"
+
+#: main/main.php:304
+msgid "Disable the scheduler notice"
+msgstr "Ütemező figyelmeztetés tiltása"
+
+#: main/main.php:314
+msgid "Store"
+msgstr "Tárolás"
+
+#: main/main.php:312
+msgid "IP addresses"
+msgstr "IP címek"
+
+#: main/main.php:314
+msgid "Anonymize"
+msgstr "Személytelenítés"
+
+#: main/main.php:314
+msgid "Do not store"
+msgstr "Ne tároljuk"
+
+#: subscription/lists.php:181
+msgid "Unlink everyone"
+msgstr "Lecstlakoztat mindenkit"
+
+#: profile/index.php:137
+msgid "Log of sent newsletters"
+msgstr "Az elküldött hírlevelek naplója"
+
+#: profile/index.php:52
+msgid "Subscriber data export"
+msgstr "Feliratkozók adatainak exportálása"
+
+#: includes/module.php:1159 includes/module.php:1173
+msgid "No subscriber found."
+msgstr "Nincs ilyen feliratkozó."
+
+#: emails/edit.php:268
+msgid "The message is missing the subscriber profile or cancellation link."
+msgstr "Az üzenetből hiányzik a címzett adatlap vagy a leiratkozási link."
+
+#: profile/profile.php:124
+msgid "Subscriber not found."
+msgstr "Feliratkozó nem létezik."
+
+#: profile/index.php:108
+msgid "Labels"
+msgstr "Címkék"
+
+#: profile/index.php:82
+msgid "Profile saved"
+msgstr "Adatlap elmentve"
+
+#: includes/module.php:1944
+msgid "Math question"
+msgstr "Matek feladat"
+
+#: subscription/profile.php:163
+msgid "Use WordPress privacy URL"
+msgstr "WordPress adatvédelmi URL használata"
+
+#: profile/index.php:79
+msgid "Messages"
+msgstr "Üzenetek"
+
+#: profile/index.php:100
+msgid "General error"
+msgstr "Általános hiba"
+
+#: subscription/defaults-profile.php:8
+msgid "First name or full name"
+msgstr "Keresztnév vagy teljes név"
+
+#: users/edit.php:112
+msgid "Logs"
+msgstr "Naplók"
+
+#: users/edit.php:109
+msgid "Extra fields"
+msgstr "További mezők"
+
+#: tnp-header.php:60
+msgid "The subscriber personal profile editing panel"
+msgstr "Az feliratkozók személyes adatlapjának szerkesztő panelje"
+
+#: unsubscription/index.php:54
+msgid "Reactivation"
+msgstr "Újraaktiválás"
+
+#: unsubscription/index.php:38 unsubscription/index.php:53
+msgid "Cancellation"
+msgstr "Törlés"
+
+#: subscription/profile.php:137
+msgid "\"Subscribe\" label"
+msgstr "\"Feliratkozás\" címke"
+
+#: subscription/profile.php:31 subscription/lists.php:68
+msgid "Private"
+msgstr "Magán"
+
+#: subscription/options.php:154
+msgid "Repeated subscriptions"
+msgstr "Többszörös feliratkozás"
+
+#: subscription/options.php:148
+msgid "Override Opt In"
+msgstr "Feliratkozás felülbírálása"
+
+#: subscription/lists.php:145
+msgid "Notes"
+msgstr "Megjegyzések"
+
+#: unsubscription/defaults.php:25
+msgid "Your subscription has been reactivated."
+msgstr "Feliratkozásod újra lett aktiválva."
+
+#: unsubscription/defaults.php:23
+msgid "This message confirms that you have unsubscribed from our newsletter. Thank you."
+msgstr "Ez az üzenet megerősíti, hogy leiratkoztál hírlevelünkről. Köszönöm."
+
+#: unsubscription/defaults.php:16
+msgid "Subscriber not found, it probably has already been removed. No further actions are required."
+msgstr "A címzett nem található, valószínűleg már el volt távolítva. További intézkedésekre nincs szükség."
+
+#: includes/controls.php:404
+msgid "Deleted."
+msgstr "Törölve."
+
+#: includes/controls.php:411
+msgid "Options reset."
+msgstr "Beállítások alaphelyzetbe állítása"
+
+#: main/main.php:260
+msgid "Disable standard styles"
+msgstr "A szabványos stílusok letiltása"
+
+#: main/main.php:319
+msgid "Newsletters tracking default"
+msgstr "Alapértelmezett hírlevél követés"
+
+#: profile/index.php:90
+msgid "Email changed alert"
+msgstr "\"E-mail megváltozott\" értesítés"
+
+#: profile/index.php:40
+msgid "The subscriber profile page"
+msgstr "Feliratkozói adatlap"
+
+#: profile/defaults.php:15
+msgid "Profile saved."
+msgstr "Adatlap elmentve."
+
+#: profile/defaults.php:14
+msgid "Read our privacy note"
+msgstr "Olvasd el adatvédelmi nyilatkozatunkat"
+
+#: profile/index.php:111
+msgid "\"Save\" label"
+msgstr "\"Mentés\" címke"
+
+#: profile/index.php:118
+msgid "Privacy link text"
+msgstr "Adatvédelmi link szövege"
+
+#: subscription/defaults-profile.php:7
+msgid "Email address is not correct"
+msgstr "Helytelen e-mail cím"
+
+#: subscription/defaults.php:28
+msgid "You cannot subscribe with the email address you entered, please contact the site administrator."
+msgstr "Nem lehet feliratkozni a megadott e-mail címmel, kérjük, fordulj a webhely adminisztrátorához."
+
+#: subscription/defaults-profile.php:28
+msgid "Dear"
+msgstr "Kedves"
+
+#: subscription/defaults-profile.php:18
+msgid "By continuing, you accept the privacy policy"
+msgstr "Ha folytatod, azzal elfogadod az adatvédelmi irányelvet"
+
+#: subscription/defaults-profile.php:16
+msgid "I'm"
+msgstr "Én"
+
+#: subscription/defaults.php:36
+msgid "A confirmation email is on the way. Follow the instructions and check the spam folder. Thank you."
+msgstr "Megerősítő e-mail úton van. Kövesd az utasításokat és ellenőrizd a spam mappát. Köszönöm."
+
+#: subscription/defaults.php:39
+msgid "Please confirm your subscription"
+msgstr "Kérjük, erősítsd meg a feliratkozást"
+
+#: subscription/defaults.php:44
+msgid "Please confirm your subscription <a href=\"{subscription_confirm_url}\">clicking here</a>"
+msgstr "Kérjük, erősítsd meg a feliratkozást <a href=\"{subscription_confirm_url}\">ide kattintva</a>"
+
+#: subscription/defaults.php:48
+msgid "Your subscription has been confirmed"
+msgstr "Feliratkozásod megerősítést nyert"
+
+#: subscription/defaults.php:53
+msgid "This message confirms your subscription to our newsletter. Thank you!"
+msgstr "Ez az üzenet megerősíti hírlevelünkre való feliratkozásod. Köszönöm!"
+
+#: unsubscription/defaults.php:15
+msgid "Please confirm you want to unsubscribe <a href=\"{unsubscription_confirm_url}\">clicking here</a>."
+msgstr "Kérjük, erősítsd meg a leiratkozást, <a href=\"{unsubscription_confirm_url}\">kattints ide</a>."
+
+#: subscription/defaults.php:55
+msgid "Change your profile"
+msgstr "Adatlap módosítása"
+
+#: unsubscription/index.php:124
+msgid "Reactivated message"
+msgstr "Újra aktivált üzenet"
+
+#: subscription/profile.php:31
+msgid "Show on subscription form"
+msgstr "Megjelenítés a feliratkozási űrlapon"
+
+#: subscription/profile.php:31
+msgid "Show on profile page"
+msgstr "Megjelenítés az adatlap oldalon"
+
+#: subscription/options.php:119
+msgid "Subscription Configuration"
+msgstr "Feliratkozás konfigurálása"
+
+#: profile/defaults.php:12
+msgid "Your email is not valid or already in use."
+msgstr "Az email címed hibás vagy már használatban van."
+
+#: subscription/defaults-profile.php:9
+msgid "Name is required"
+msgstr "A név kötelező"
+
+#: subscription/defaults-profile.php:13
+msgid "Last name is required"
+msgstr "Vezetéknév kötelező"
+
+#: profile/defaults.php:11
+msgid "Your email has been changed, an activation email has been sent with instructions."
+msgstr "E-mail címed meg lett változtatva, az utasításokat tartalmazó aktiváló e-mail elküldve."
+
+#: unsubscription/defaults.php:19
+msgid "Your subscription has been deleted. If that was an error you can <a href=\"{reactivate_url}\">subscribe again here</a>."
+msgstr "A feliratkozás törölve lett. Ha ez hiba volt, akkor <a href=\"{reactivate_url}\">újra feliratkozhatsz itt</a>."
+
+#: unsubscription/index.php:60
+msgid "Cancellation message"
+msgstr "Leiratkozási üzenet"
+
+#: subscription/profile.php:32
+msgid "Optional"
+msgstr "Választható"
+
+#: unsubscription/defaults.php:21
+msgid "Goodbye"
+msgstr "Viszontlátásra"
+
+#: subscription/defaults-profile.php:27
+msgid "Mr."
+msgstr "Férfi"
+
+#: subscription/defaults-profile.php:26
+msgid "Ms."
+msgstr "Nő"
+
+#: users/statistics.php:257 users/edit.php:143
+msgid "Male"
+msgstr "Férfi"
+
+#: users/massive.php:56
+msgid "deleted"
+msgstr "törölve"
+
+#: users/massive.php:248
+msgid "months"
+msgstr "hónapok"
+
+#: users/massive.php:249
+msgid "year"
+msgstr "év"
+
+#: users/massive.php:250 users/massive.php:251 users/massive.php:252
+#: users/massive.php:253 users/massive.php:254 users/massive.php:255
+#: users/massive.php:256 users/massive.php:257 users/massive.php:258
+msgid "years"
+msgstr "év"
+
+#: users/massive.php:244
+msgid "Inactive since"
+msgstr "Inaktív ezóta"
+
+#: users/edit.php:230
+msgid "Last activity"
+msgstr "Utolsó tevékenység"
+
+#: users/massive.php:311
+msgid "Add to list"
+msgstr "Listához hozzárendelés"
+
+#: users/massive.php:312
+msgid "subscribers without a list"
+msgstr "listán nem szereplő címzettek"
+
+#: subscription/antibot.php:47
+msgid "Blacklists"
+msgstr "Feketelisták"
+
+#: subscription/antibot.php:29 subscription/antibot.php:46 tnp-header.php:79
+msgid "Security"
+msgstr "Biztonság"
+
+#: tnp-header.php:80
+msgid "Spam subscriptions control"
+msgstr "Spam-feliratkozások megakadályozása"
+
+#: subscription/antibot.php:135
+msgid "Address black list"
+msgstr "Cím feketelista"
+
+#: subscription/antibot.php:126
+msgid "IP black list"
+msgstr "IP feketelista"
+
+#: subscription/antibot.php:100
+msgid "Captcha"
+msgstr "Captcha"
+
+#: includes/fields.php:491
+msgid "Block Background"
+msgstr "Blokk háttér"
+
+#: emails/blocks/posts/options.php:49 emails/blocks/hero/options.php:13
+#: emails/blocks/header/options.php:11
+msgid "Layout"
+msgstr "Elrendezés"
+
+#: emails/blocks/posts/block.php:22
+msgid "Read more..."
+msgstr "Olvass tovább..."
+
+#: emails/subjects.php:58
+msgid "The 10 Rules for <em>[something]</em>"
+msgstr "A <em>[valami]</em> 10 szabálya"
+
+#: emails/subjects.php:56
+msgid "10 Ways to <em>[something]</em>"
+msgstr "A <em>[valami]</em> 10 módja."
+
+#: emails/subjects.php:52
+msgid "10 <em>[something]</em> Mistakes That Make You Look Dumb"
+msgstr "10 <em>[valami]</em> hiba, ami miatt hülyének tűnsz"
+
+#: emails/subjects.php:51
+msgid "Do You Make These 10 <em>[something]</em> Mistakes?"
+msgstr "Elköveted ezt a 10 <em>[valami]</em> hibát?"
+
+#: emails/subjects.php:48
+msgid "Secrets of [famous people]"
+msgstr "[Híres emberek] titkai"
+
+#: emails/subjects.php:47
+msgid "How to End [problem]"
+msgstr "Hogyan kezeljük [problémát]"
+
+#: emails/subjects.php:46
+msgid "Get Rid of <em>[problem]</em> Once and Forever"
+msgstr "Szabadulj meg a <em>[problem]</em>-től mindörökre"
+
+#: emails/subjects.php:45
+msgid "10 Ways to Simplify Your <em>[something]</em>"
+msgstr "10 módja a <em>[valami]</em> egyszerűsítésének."
+
+#: emails/subjects.php:41
+msgid "10 Warning Signs That <em>[something]</em>"
+msgstr "10 Figyelmeztető jel, hogy <em>[valami]</em>"
+
+#: emails/edit.php:337
+msgid "Insert emoji"
+msgstr "Emoji beszúrása"
+
+#: emails/editorhtml.php:89 emails/tnp-composer/index-v2.php:54
+#: emails/tnp-composer/index.php:54 emails/editortinymce.php:107
+#: emails/edit.php:335
+msgid "Get ideas"
+msgstr "Ötletek szerzése"
+
+#: emails/subjects.php:57
+msgid "The Top 10 <em>[something]</em>"
+msgstr "A legjobb 10 <em>[valami]</em>"
+
+#: emails/subjects.php:40
+msgid "How safe is your <em>[something]</em> from <em>[danger]</em>?"
+msgstr "Mennyire van a <em>[valami]</em> biztonságban a <em>[veszéllyel]</em> szemben?"
+
+#: emails/subjects.php:59
+msgid "Get/Become <em>[something]</em>. 10 Ideas That Work"
+msgstr "Hogyan válj <em>[valamivé]</em>. 10 működő ötlet. "
+
+#: emails/subjects.php:42
+msgid "10 Lies <em>[kind of people]</em> Likes to Tell"
+msgstr "10 hazugság <em>[emberfajta]</em> szívesen használ "
+
+#: emails/subjects.php:53
+msgid "Don't do These 10 Things When <em>[something]</em>"
+msgstr "Ne tedd ezt a 10 dolgot, amikor <em>[valami]</em>"
+
+#: main/welcome.php:233 emails/editorhtml.php:101 emails/composer.php:93
+#: emails/editortinymce.php:118
+msgid "Next"
+msgstr "Következő"
+
+#: main/welcome.php:209
+msgid "Your email"
+msgstr "E-mail címed"
+
+#: main/welcome.php:232
+msgid "Previous"
+msgstr "Előző"
+
+#: main/welcome.php:221
+msgid "If you are unsure on how to use some features of Newsletter, reach for our official documentation."
+msgstr "Ha nem tudod, hogy hogyan használd a Hírlevél egyes funkcióit, fordulj a hivatalos dokumentációhoz."
+
+#: main/welcome.php:208
+msgid "Be always updated with the latest releases and tips from our headquarters"
+msgstr "Mindig kapd meg a legfrissebb termékeket és tippeket a központunktól"
+
+#: main/welcome.php:180
+msgid "Email address"
+msgstr "E-mail cím"
+
+#: main/welcome.php:179
+msgid "Check if your website can send emails correctly."
+msgstr "Ellenőrizd, hogy a webhelyed helyesen küldi-e az e-maileket."
+
+#: main/welcome.php:178
+msgid "Time for some tests!"
+msgstr "Ideje tesztelni!"
+
+#: main/welcome.php:173
+msgid "We've just created the page where your visitors will subscribe and where they will edit their preferences."
+msgstr "Létrehoztuk azon oldalt, ahol a látogatók feliratkoznak, és ahol változtathatják a preferenciáikat."
+
+#: main/welcome.php:172
+msgid "Subscription and Edit<br>page creation"
+msgstr "Feliratkozás és szerkesztés<br>oldal létrehozása"
+
+#: main/welcome.php:163
+msgid "Subscribe button label"
+msgstr "Feliratkozás gomb szövege"
+
+#: main/welcome.php:156
+msgid "Add a privacy checkbox"
+msgstr "Adatvédelmi jelölőnégyzet használata"
+
+#: main/welcome.php:204
+msgid "You're now ready to begin using Newsletter!"
+msgstr "Most már készen állsz a Hírlevél használatára!"
+
+#: main/welcome.php:149
+msgid "Ask for their name"
+msgstr "Kérdezzük meg a nevüket"
+
+#: main/welcome.php:191
+msgid "If you use sidebars in your blog, it may be a good idea to add a subscription form there. Remember to come back here when you're done"
+msgstr "Ha van oldalsáv a blogodon, akkor javasolt feliratkozási űrlap elhelyezése rajta. Térj vissza ide, amikor kész"
+
+#: main/welcome.php:193
+msgid "Take me to my widget settings (opens in a new window)"
+msgstr "Vigyél a widget beállításokhoz (új ablakban nyílik meg)"
+
+#: main/welcome.php:190
+msgid "Add Newsletter widget to sidebar"
+msgstr "Hírlevél widget elhelyezése az oldalsávon"
+
+#: main/welcome.php:214
+msgid "You can also follow us through our social accounts"
+msgstr "A szociális médiákon is követhetsz bennünket"
+
+#: main/welcome.php:226
+msgid "Go to your dashboard"
+msgstr "Menj a vezérlőpultodhoz"
+
+#: main/welcome.php:145
+msgid "Subscription Forms"
+msgstr "Feliratkozási űrlapok"
+
+#: main/welcome.php:139
+msgid "Sender email"
+msgstr "Küldő e-mail címe"
+
+#: main/welcome.php:137
+msgid "Choose which name and email address you'd like to appear as the sender of your newsletters."
+msgstr "Válaszd ki, a nevet és e-mail címet amit a hírlevelek küldőjeként szeretnél megjeleníteni."
+
+#: main/welcome.php:136
+msgid "Sender"
+msgstr "Küldő"
+
+#: main/welcome.php:129
+msgid "Welcome to The Newsletter Plugin and thank your for choosing the best mail management system for Wordpress!"
+msgstr "Üdvözlünk a Hírlevél bővítményben, és köszönjük, hogy a WordPress legjobb email kezelő rendszerét választottad!"
+
+#: main/welcome.php:32
+msgid "Please check the email address, it seems wrong."
+msgstr "Kérjük, ellenőrizd az e-mail címet, tévesnek tűnik."
+
+#: main/main.php:221
+msgid "A license key is set"
+msgstr "License kulcs beállítva"
+
+#: main/welcome.php:146
+msgid "Choose what to ask to your subscribers in your forms."
+msgstr "Válaszd ki, hogy mit kérdezz a feliratkozóktól az űrlapokon."
+
+#: main/welcome.php:130
+msgid "In this short tutorial we will guide you through some of the basic settings to get the most out of our plugin. "
+msgstr "Ebben a rövid bemutatóban végigvezetünk néhány alapbeállításon, hogy kihasználhasd bővítményünket."
+
+#: main/welcome.php:50
+msgid "There was an error. Complete the setup and then use the status panel to check it out."
+msgstr "Hiba történt. Végezd el a beállítást, majd az állapotpanel segítségével ellenőrizd."
+
+#: main/welcome.php:44
+msgid "Check your mailbox for a test message. Check the spam folder as well."
+msgstr "Ellenőrizd postafiókod egy próbatüzenettel. Ellenőrizd a spam mappát is."
+
+#: users/massive.php:48
+msgid "removed from list"
+msgstr "eltávolítva a listáról"
+
+#: users/massive.php:43
+msgid "added to list"
+msgstr "listához hozzáadva"
+
+#: users/statistics-time.php:15
+msgid "Year and month"
+msgstr "Év és hónap"
+
+#: users/statistics.php:264 users/edit.php:143
+msgid "Not specified"
+msgstr "Nincs megadva"
+
+#: users/statistics.php:250 users/edit.php:143
+msgid "Female"
+msgstr "Női"
+
+#: users/statistics.php:173
+msgid "Referrer"
+msgstr "Küldő oldal"
+
+#: users/statistics.php:60
+msgid "Any"
+msgstr "Bármely"
+
+#: users/statistics-time.php:31
+msgid "Subscriptions by day (max 90 days)"
+msgstr "Napos előfizetések (max. 90 nap)"
+
+#: users/statistics-time.php:7
+msgid "Subscriptions by month (max 12 months)"
+msgstr "Havi előfizetések (max. 12 hónap)"
+
+#: users/new.php:20
+msgid "This subscriber already exists."
+msgstr "Ez a címzett már létezik."
+
+#: users/new.php:11
+msgid "Wrong email address."
+msgstr "Érvénytelen e-mail cím."
+
+#: users/massive.php:299
+msgid "all subscribers in"
+msgstr "Az összes feliratkozó ebben"
+
+#: users/massive.php:181
+msgid "Bounces"
+msgstr "Visszapattanás"
+
+#: users/index.php:232
+msgid "Resend activation"
+msgstr "Aktiváló e-mail újraküldése"
+
+#: users/index.php:152
+msgid "The list below is filtered."
+msgstr "Az alábbi lista szűrve van."
+
+#: users/import.php:184
+msgid "Import mode"
+msgstr "Import mód"
+
+#: users/edit.php:254
+msgid "Profile URL"
+msgstr "Adatlap URL"
+
+#: users/edit.php:248
+msgid "Secret token"
+msgstr "Titokos token"
+
+#: users/edit.php:242
+msgid "IP address"
+msgstr "IP cím"
+
+#: users/edit.php:195
+msgid "Value"
+msgstr "Érték"
+
+#: subscription/lists.php:132 users/index.php:175 users/edit.php:194
+msgid "Name"
+msgstr "Név"
+
+#: subscription/defaults-profile.php:12 subscription/profile.php:94
+#: users/edit.php:135
+msgid "Last name"
+msgstr "Keresztnév"
+
+#: subscription/profile.php:77 users/edit.php:129
+msgid "First name"
+msgstr "Vezetéknév"
+
+#: users/new.php:48 users/edit.php:123
+msgid "Email"
+msgstr "E-mail cím"
+
+#: users/edit.php:45
+msgid "Error. Check the log files."
+msgstr "Hiba. Nézd meg a naplófájlokat."
+
+#: users/edit.php:25
+msgid "The email address is already in use"
+msgstr "Ez az email cím már használatban van"
+
+#: users/edit.php:16
+msgid "Wrong email address"
+msgstr "Érvénytelen e-mail cím"
+
+#: profile/index.php:71
+msgid "Alternative profile page URL"
+msgstr "Alternatív adatlap URL"
+
+#: subscription/options.php:265
+msgid "Welcome email"
+msgstr "Üdvözlő  hírlevél"
+
+#: subscription/options.php:255
+msgid "Conversion tracking code"
+msgstr "Konverziókövető kód"
+
+#: subscription/options.php:248
+msgid "Alternative welcome page URL"
+msgstr "Alternatív üdvözlőoldal URL"
+
+#: subscription/options.php:241
+msgid "Welcome message"
+msgstr "Üdvözlő üzenet"
+
+#: subscription/options.php:224
+msgid "Activation email"
+msgstr "Aktiválási email"
+
+#: subscription/options.php:215
+msgid "Alternative activation page"
+msgstr "Alternatív aktiválási oldal"
+
+#: subscription/options.php:203
+msgid "Only for double opt-in mode."
+msgstr "Csak dupla opt-in módban."
+
+#: subscription/options.php:192
+msgid "Error page"
+msgstr "Hiba oldala"
+
+#: subscription/antibot.php:78
+msgid "Antiflood"
+msgstr "Antiflood"
+
+#: subscription/options.php:180
+msgid "Subscription page"
+msgstr "Feliratkozási oldal"
+
+#: subscription/options.php:162
+msgid "Notifications"
+msgstr "Értesítések"
+
+#: main/main.php:211
+msgid "Create the page"
+msgstr "Oldal létrehozása"
+
+#: main/main.php:208
+msgid "Unstyled page"
+msgstr "Stílus nélküli oldal"
+
+#: subscription/options.php:144
+msgid "Single Opt In"
+msgstr "Szimpla opt-in"
+
+#: subscription/options.php:144
+msgid "Double Opt In"
+msgstr "Dupla opt-in"
+
+#: subscription/options.php:142
+msgid "Opt In"
+msgstr "Feliratkozás"
+
+#: subscription/defaults.php:50 subscription/options.php:133 plugin.php:461
+msgid "Welcome"
+msgstr "Üdvözöllek!"
+
+#: subscription/options.php:134
+msgid "Activation"
+msgstr "Aktiválás"
+
+#: main/main.php:334
+msgid "Email encoding"
+msgstr "E-mail kódolás"
+
+#: main/main.php:327
+msgid "Debug mode"
+msgstr "Hibakeresési mód"
+
+#: main/main.php:295
+msgid "Log level"
+msgstr "Napló mélysége"
+
+#: main/main.php:225
+msgid "Find it in <a href=\"%s\" target=\"_blank\">your account</a> page"
+msgstr "Keresd meg a <a href=\"%s\" target=\"_blank\">fiókod</a> oldalon"
+
+#: main/main.php:218
+msgid "License key"
+msgstr "License kulcs"
+
+#: main/main.php:109
+msgid "Your Return Path domain is different from your Sender domain. Providers may require them to match."
+msgstr "Visszatérési út domainje eltér a feladói domaintől. A szolgáltatók megkövetelhetik, hogy ezek megegyezzenek."
+
+#: main/info.php:92
+msgid "Copyright or legal text"
+msgstr "Szerzői jogi vagy jogi szöveg"
+
+#: main/info.php:86
+msgid "Address"
+msgstr "Cím"
+
+#: main/info.php:80
+msgid "Company name"
+msgstr "Cégnév"
+
+#: main/info.php:76
+msgid "Footer Settings"
+msgstr "Lábrész beállítások"
+
+#: main/info.php:69
+msgid "Motto"
+msgstr "Mottó"
+
+#: main/info.php:55
+msgid "Logo"
+msgstr "Logó"
+
+#: main/smtp.php:34 main/status.php:107 main/test.php:50 emails/emails.php:956
+#: unsubscription/index.php:101 includes/controls.php:1651
+#: includes/controls.php:1750
+msgid "Read more"
+msgstr "Olvasd tovább"
+
+#: includes/controls.php:1573
+msgid "Center"
+msgstr "Középre igazítás"
+
+#: includes/controls.php:1572
+msgid "Right"
+msgstr "Jobbra"
+
+#: includes/controls.php:1572
+msgid "Left"
+msgstr "Balra"
+
+#: emails/themes/default/theme-options.php:69
+msgid "Post types"
+msgstr "Bejegyzéstípusok"
+
+#: emails/themes/default/theme-options.php:63
+#: emails/blocks/posts/options.php:72
+msgid "Max posts"
+msgstr "Maximum bejegyzés szám"
+
+#: emails/themes/default/theme-options.php:56
+#: emails/blocks/posts/options.php:85
+msgid "Tags"
+msgstr "Címkék"
+
+#: emails/themes/default/theme-options.php:28
+msgid "Posts"
+msgstr "Bejegyzések"
+
+#: emails/themes/default/theme-options.php:8
+#: emails/themes/cta-2015/theme-options.php:6
+msgid "Primary color"
+msgstr "Elsődleges szín"
+
+#: emails/themes/blank/theme-options.php:6
+#: emails/themes/default/theme-options.php:22
+msgid "Disable social links"
+msgstr "Közösségi linkek letiltása"
+
+#: emails/edit.php:401
+msgid "None"
+msgstr "Nincs"
+
+#: emails/edit.php:399
+msgid "must not in one of"
+msgstr "nem lehet egyikben"
+
+#: users/export.php:37 emails/edit.php:396
+msgid "All"
+msgstr "Összes"
+
+#: emails/edit.php:394
+msgid "Match all of"
+msgstr "Összes adat egyezzen innen"
+
+#: emails/edit.php:394
+msgid "Match at least one of"
+msgstr "Legalább egy egyezzen innen"
+
+#: emails/edit.php:385
+msgid "Leaving all multichoice options unselected is like to select all them"
+msgstr "Ha a több-választásos opciókat üresen hagyod, akkor az összes kiválasztásra kerül"
+
+#: emails/blocks/separator/options.php:6
+msgid "Height"
+msgstr "Magasság"
+
+#: emails/blocks/separator/options.php:5
+msgid "Color"
+msgstr "Szín"
+
+#: emails/index.php:101
+msgid "View"
+msgstr "Megnéz"
+
+#: users/edit.php:160
+msgid "Test subscriber"
+msgstr "Próba címzett"
+
+#: subscription/options.php:208
+msgid "Activation message"
+msgstr "Aktiválási üzenet"
+
+#: subscription/antibot.php:60
+msgid "Disable for ajax form submission"
+msgstr "Ajax kikapcsova űrlap benyújtásnál"
+
+#: main/main.php:204
+msgid "Dedicated page"
+msgstr "Külön kijelölt oldal"
+
+#: main/info.php:50
+msgid "Header Settings"
+msgstr "Fejléc beállítások"
+
+#: includes/controls.php:1771 includes/controls.php:1782
+msgid "Need help?"
+msgstr "Segítségre van szükséged?"
+
+#: emails/tnp-composer/edit.php:105
+msgid "Font family"
+msgstr "Betűcsalád"
+
+#: emails/edit.php:426
+msgid "Only to subscribers linked to WP users"
+msgstr "Csak a WP felhasználókhoz hozzárendelt címzetteknek"
+
+#: emails/edit.php:264
+msgid "This newsletter will be sent to not confirmed subscribers."
+msgstr "A hírlevél nem megerősített címzetteknek kerül elküldésre."
+
+#: plugin.php:465 emails/editorhtml.php:99 emails/tnp-composer/index-v2.php:72
+#: emails/tnp-composer/index.php:71 emails/editortinymce.php:116
+msgid "Test"
+msgstr "Próba"
+
+#: users/massive.php:300
+msgid "to"
+msgstr "ehhez"
+
+#: subscription/antibot.php:88 subscription/antibot.php:89
+#: subscription/antibot.php:90 subscription/antibot.php:91
+#: subscription/antibot.php:92 subscription/antibot.php:93
+msgid "minutes"
+msgstr "perc"
+
+#: subscription/antibot.php:87
+msgid "minute"
+msgstr "perc"
+
+#: subscription/antibot.php:83 subscription/antibot.php:84
+#: subscription/antibot.php:85 subscription/antibot.php:86
+msgid "seconds"
+msgstr "másodperc"
+
+#: subscription/antibot.php:70 subscription/antibot.php:82
+#: includes/controls.php:470
+msgid "Disabled"
+msgstr "Kikapcsolva"
+
+#: profile/defaults.php:6
+msgid ""
+"\n"
+"    <p>If you change your email address, a confirmation email will be sent to activate it.</p>\n"
+"    <p><a href=\"{unsubscription_confirm_url}\">Cancel your subscription</a></p>"
+msgstr ""
+"\n"
+"    <p>Ha megváltoztatod az e-mail címedet, megerősítő e-mailt küldünk az aktiválásához. </p>\n"
+"    <p><a href=\"{unsubscription_confirm_url}\"> Feliratkozás törlése </a> </p>"
+
+#: emails/tnp-composer/edit.php:134
+msgid "Text align"
+msgstr "Szöveg igazítás"
+
+#: emails/blocks/preheader/options.php:7
+msgid "View online"
+msgstr "Megtekintés böngészőben"
+
+#: emails/tnp-composer/edit.php:127
+msgid "Font size"
+msgstr "Betűméret"
+
+#: users/edit.php:236
+msgid "WP user ID"
+msgstr "WP felhasználói azonosító"
+
+#: users/edit.php:224
+msgid "Created"
+msgstr "Létrehozva"
+
+#: emails/themes/vimeo-like/theme-defaults.php:7
+msgid "Read More"
+msgstr "Olvasd tovább"
+
+#: emails/edit.php:464
+msgid "Toggle"
+msgstr "Kapcsoló"
+
+#: subscription/options.php:157 includes/controls.php:449
+msgid "No"
+msgstr "Nem"
+
+#: main/index.php:182 main/index.php:195
+msgid "Subscriptions"
+msgstr "Feliratkozások"
+
+#: subscription/defaults-profile.php:24 tnp-header.php:247
+#: main/extensions.php:162 main/welcome.php:211
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+#: includes/controls.php:870 includes/controls.php:875
+msgid "Duplicate"
+msgstr "Másolás"
+
+#: widget/standard.php:134 widget/minimal.php:88
+msgid "Automatically subscribe to"
+msgstr "Automatikus feliratkozás erre:"
+
+#: subscription/template.php:106
+msgid "Template"
+msgstr "Sablon"
+
+#: main/extensions.php:30
+msgid "Error while activating:"
+msgstr "Hiba az aktiválás során:"
+
+#: users/massive.php:266
+msgid "Update"
+msgstr "Frissítés"
+
+#: tnp-header.php:83
+msgid "Subscription Form Fields, Buttons, Labels"
+msgstr "Feliratkozási űrlapmezők, gombok, címkék"
+
+#: main/status.php:217 main/test.php:135 main/welcome.php:182
+msgid "Send a test message"
+msgstr "Próba email küldése"
+
+#: main/status.php:167
+msgid "System Status"
+msgstr "Rendszerállapot"
+
+#: main/main.php:266
+msgid "Custom styles"
+msgstr "Egyedi stílusok"
+
+#: includes/controls.php:418
+msgid "Done."
+msgstr "Kész."
+
+#: subscription/template.php:36
+msgid "No test subscribers found."
+msgstr "Nincsenek próba feliratkozók."
+
+#: subscription/template.php:61
+msgid "The tag {message} is missing in your template"
+msgstr "A {message} címke hiányzik a sablonodból"
+
+#: emails/edit.php:321 emails/edit.php:324
+msgid "Schedule"
+msgstr "Ütemezés"
+
+#: emails/tnp-composer/edit.php:17
+msgid "SOURCE"
+msgstr "FORRÁS"
+
+#: emails/tnp-composer/edit.php:26
+msgid "LINK"
+msgstr "LINK"
+
+#: emails/tnp-composer/index-v2.php:124 emails/tnp-composer/index.php:113
+#: emails/tnp-composer/edit.php:7 emails/edit.php:325
+msgid "Cancel"
+msgstr "Törlés"
+
+#: emails/tnp-composer/edit.php:65
+msgid "Edit Link"
+msgstr "Link szerkesztése"
+
+#: emails/tnp-composer/edit.php:68 emails/tnp-composer/edit.php:82
+msgid "TITLE"
+msgstr "CÍM"
+
+#: emails/tnp-composer/edit.php:70 emails/tnp-composer/edit.php:84
+msgid "URL"
+msgstr "URL"
+
+#: emails/tnp-composer/edit.php:97
+msgid "Edit Title"
+msgstr "Cím szerkesztése"
+
+#: main/info.php:63 emails/tnp-composer/edit.php:100
+#: emails/blocks/hero/options.php:20 widget/standard.php:106
+msgid "Title"
+msgstr "Cím"
+
+#: emails/tnp-composer/edit.php:150
+msgid "Edit Text"
+msgstr "Szöveg szerkesztése"
+
+#: subscription/profile.php:33 emails/tnp-composer/edit.php:153
+#: emails/blocks/preheader/options.php:6 emails/blocks/heading/options.php:9
+#: emails/blocks/hero/options.php:28
+msgid "Text"
+msgstr "Szöveg"
+
+#: emails/tnp-composer/edit.php:163 emails/tnp-composer/edit.php:203
+msgid "Edit Block"
+msgstr "Blokk szerkesztése"
+
+#: emails/tnp-composer/edit.php:231
+msgid "Number of posts"
+msgstr "Bejegyzések száma"
+
+#: emails/themes/default/theme-options.php:50 emails/tnp-composer/edit.php:233
+#: includes/fields.php:369
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: emails/tnp-composer/edit.php:238
+msgid "Tags (comma separated)"
+msgstr "Cimkék (vesszővel elválasztva)"
+
+#: emails/tnp-composer/edit.php:24
+msgid "ALT TEXT"
+msgstr "ALTERNATÍV SZÖVEG"
+
+#: emails/tnp-composer/edit.php:79
+msgid "Edit Button"
+msgstr "Gomb szerkesztése"
+
+#: emails/tnp-composer/edit.php:88 emails/tnp-composer/edit.php:166
+#: emails/tnp-composer/edit.php:206
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: emails/tnp-composer/edit.php:86 emails/tnp-composer/edit.php:102
+msgid "Text Color"
+msgstr "Szöveg színe"
+
+#: emails/tnp-composer/edit.php:168 emails/tnp-composer/edit.php:208
+msgid "Font Family"
+msgstr "Betűcsalád"
+
+#: users/import.php:207 users/export.php:27
+msgid "Field separator"
+msgstr "Mező elválasztó"
+
+#: emails/tnp-composer/edit.php:15
+msgid "Edit Image"
+msgstr "Kép szerkesztése"
+
+#: emails/tnp-composer/edit.php:240
+msgid "Any prior changes to single posts will be lost when editing these settings."
+msgstr "A korábbi módosítások elvesznek, amennyiben ezeken a beállításokon módosítasz."
+
+#: emails/theme.php:77
+msgid "Responsive Drag & Drop Composer"
+msgstr "Reszponzív vizuális szerkesztő"
+
+#: subscription/options.php:132 tnp-header.php:76
+msgid "Subscription"
+msgstr "Feliratkozás"
+
+#: tnp-footer.php:14
+msgid "Forum"
+msgstr "Fórum"
+
+#: tnp-footer.php:15
+msgid "Blog"
+msgstr "Blog"
+
+#: main/index.php:323
+msgid "Premium"
+msgstr "Prémium"
+
+#: main/index.php:287 main/index.php:356
+msgid "New"
+msgstr "Új"
+
+#: subscription/profile.php:33 users/export.php:35 users/statistics.php:131
+#: main/index.php:284 main/index.php:353
+msgid "List"
+msgstr "Lista"
+
+#: subscription/lists.php:117 users/import.php:197 users/massive.php:180
+#: users/index.php:178 users/edit.php:108 users/edit.php:180 tnp-header.php:87
+#: emails/edit.php:389
+msgid "Lists"
+msgstr "Listák"
+
+#: emails/edit.php:293
+msgid "Edit Newsletter"
+msgstr "Hírlevél szerkesztése"
+
+#: users/statistics-time.php:38 emails/index.php:64
+msgid "Date"
+msgstr "Dátum"
+
+#: subscription/options.php:157 includes/controls.php:454
+msgid "Yes"
+msgstr "Igen"
+
+#: tnp-header.php:62
+msgid "Import from external sources"
+msgstr "Importálás külső forrásból"
+
+#: users/export.php:17 users/export.php:42 tnp-header.php:63
+msgid "Export"
+msgstr "Exportálás"
+
+#: tnp-header.php:65
+msgid "Maintenance"
+msgstr "Karbantartás"
+
+#: tnp-header.php:88
+msgid "Profile the subscribers for a better targeting"
+msgstr "Feliratkozó profilozás a célozottabb hírlevélért"
+
+#: tnp-header.php:91
+msgid "Unsubscription"
+msgstr "Leiratkozás"
+
+#: subscription/forms.php:24
+msgid "Custom Forms"
+msgstr "Egyéni űrlapok"
+
+#: tnp-header.php:138
+msgid "Messages Template"
+msgstr "Üzenet sablon"
+
+#: tnp-header.php:110
+msgid "Tracking configuration and basic data"
+msgstr "Követési beállítások és alapadatok"
+
+#: tnp-header.php:119
+msgid "Settings"
+msgstr "Beállítások"
+
+#: tnp-header.php:135 main/info.php:34
+msgid "Company Info"
+msgstr "Céginformáció"
+
+#: tnp-header.php:136
+msgid "Social, address, logo and general info"
+msgstr "Közösségi média, cím, logó és alap információk"
+
+#: tnp-header.php:128
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/module.php:923
+msgid "Scheduled"
+msgstr "Ütemezett"
+
+#: includes/module.php:929
+msgid "Draft"
+msgstr "Vázlat"
+
+#: includes/module.php:965 includes/module.php:972 includes/module.php:974
+#: includes/module.php:1009
+msgid "of"
+msgstr "/"
+
+#: includes/controls.php:397
+msgid "Saved."
+msgstr "Mentve."
+
+#: includes/controls.php:792
+msgid "Valid email address"
+msgstr "Érvényes e-mail cím"
+
+#: profile/defaults.php:13 emails/editorhtml.php:100
+#: emails/tnp-composer/edit.php:8 emails/composer.php:92
+#: emails/editortinymce.php:117 includes/controls.php:830
+msgid "Save"
+msgstr "Mentés"
+
+#: includes/controls.php:856
+msgid "Back"
+msgstr "Vissza"
+
+#: includes/controls.php:912 includes/controls.php:917
+msgid "Delete"
+msgstr "Töröl"
+
+#: main/smtp.php:54
+msgid "SMTP Settings"
+msgstr "SMTP beállítások"
+
+#: main/main.php:149
+msgid "Basic Settings"
+msgstr "Alap beállítások"
+
+#: main/main.php:151
+msgid "Advanced Settings"
+msgstr "Haladó beállítások"
+
+#: main/index.php:104
+msgid "Last Newsletter"
+msgstr "Legutóbbi hírlevél"
+
+#: main/index.php:108
+msgid "Overall"
+msgstr "Összefoglaló"
+
+#: main/welcome.php:222 main/index.php:239
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: main/index.php:325
+msgid "Buy"
+msgstr "Váráslás"
+
+#: main/index.php:351
+msgid "Last Subscribers"
+msgstr "Legutóbbi feliratkozók"
+
+#: includes/module.php:1130
+msgid "NOT CONFIRMED"
+msgstr "NEM MEGERŐSÍTETT"
+
+#: includes/module.php:1132
+msgid "CONFIRMED"
+msgstr "MEGERŐSÍTETT"
+
+#: includes/module.php:1134
+msgid "UNSUBSCRIBED"
+msgstr "LEIRATKOZOTT"
+
+#: includes/module.php:1136
+msgid "BOUNCED"
+msgstr "VISSZAPATTANT"
+
+#: emails/edit.php:248
+msgid "A subject is required to send"
+msgstr "A tárgy megadása kötelező a küldéshez"
+
+#: emails/edit.php:328
+msgid "Pause"
+msgstr "Szünet"
+
+#: emails/edit.php:330
+msgid "Stop"
+msgstr "Leállít"
+
+#: users/edit.php:110
+msgid "Other"
+msgstr "Egyéb"
+
+#: users/import.php:177 users/massive.php:203 users/statistics.php:66
+#: users/statistics.php:148 users/statistics.php:174 users/statistics.php:207
+#: users/statistics.php:242 users/edit.php:149 emails/edit.php:421
+msgid "Confirmed"
+msgstr "Megerősített"
+
+#: users/import.php:177 users/statistics.php:72 users/statistics.php:175
+#: users/statistics.php:208 users/statistics.php:243 users/edit.php:149
+#: emails/edit.php:421
+msgid "Not confirmed"
+msgstr "Nem megerősített"
+
+#: subscription/profile.php:32 emails/edit.php:468
+msgid "Required"
+msgstr "Kötelező"
+
+#: emails/new.php:12 emails/new.php:36 emails/new.php:78
+msgid "Here the email subject"
+msgstr "Itt az e-mail tárgya"
+
+#: emails/new.php:119
+msgid "Create a newsletter"
+msgstr "Új hírlevél létrehozása"
+
+#: emails/new.php:135
+msgid "Refresh the preview"
+msgstr "Előnézet frissítése"
+
+#: emails/index.php:53
+msgid "New newsletter"
+msgstr "Új hírlevél"
+
+#: emails/index.php:54
+msgid "Delete selected newsletters"
+msgstr "A kijelölt hírlevelek törlése"
+
+#: emails/index.php:61
+msgid "Subject"
+msgstr "Tárgy"
+
+#: emails/theme.php:63
+msgid "Select a theme"
+msgstr "Sablon kiválasztása"
+
+#: users/edit.php:91
+msgid "Editing"
+msgstr "Szerkesztés"
+
+#: users/new.php:37
+msgid "New Subscriber"
+msgstr "Új feliratkozó"
+
+#: users/import.php:175
+msgid "Import Subscribers As"
+msgstr "Feliratkozó importálása, mint"
+
+#: users/import.php:215
+msgid "CSV file"
+msgstr "CSV fájl"
+
+#: users/index.php:163
+msgid "subscriber(s) found"
+msgstr "találat a feliratkozó(k)ra"
+
+#: users/index.php:230
+msgid "Resend welcome"
+msgstr "Üdvözlő üzenet újraküldése"
+
+#: users/massive.php:23
+msgid "Subscribers bounced deleted: "
+msgstr "Visszapattant feliratkozók törlésre kerültek:"
+
+#: users/massive.php:28
+msgid "Subscribers changed to not confirmed: "
+msgstr "Nem megerősített státuszra megváltoztatva:"
+
+#: users/massive.php:33
+msgid "Subscribers changed to confirmed: "
+msgstr "Megerősített státuszra megváltoztatva:"
+
+#: users/massive.php:189 users/statistics-time.php:16
+#: users/statistics-time.php:39 users/statistics.php:55
+#: users/statistics.php:100 users/statistics.php:132
+msgid "Total"
+msgstr "Összes"
+
+#: users/massive.php:199
+msgid "Delete all"
+msgstr "Összes törlése"
+
+#: includes/controls.php:936
+msgid "Are you sure?"
+msgstr "Biztos?"
+
+#: users/massive.php:225 users/statistics.php:78 users/statistics.php:176
+#: users/statistics.php:209 users/statistics.php:244 users/edit.php:150
+msgid "Unsubscribed"
+msgstr "Leiratkozott"
+
+#: users/massive.php:235 users/statistics.php:84 users/statistics.php:177
+#: users/statistics.php:210 users/statistics.php:245 users/edit.php:150
+msgid "Bounced"
+msgstr "Visszapattant"
+
+#: users/massive.php:331
+msgid "Bounced addresses"
+msgstr "Visszapattant e-mail címek"
+
+#: users/edit.php:111 tnp-header.php:102 tnp-header.php:106 main/index.php:282
+#: emails/index.php:43
+msgid "Newsletters"
+msgstr "Hírlevelek"
+
+#: subscription/lists.php:142 users/index.php:121 tnp-header.php:55
+msgid "Subscribers"
+msgstr "Feliratkozók"
+
+#: tnp-header.php:57
+msgid "Search And Edit"
+msgstr "Keresés és szerkesztés"
+
+#: tnp-header.php:58
+msgid "Add, edit, search"
+msgstr "Létrehoz, szerkeszt, keres"
+
+#: users/index.php:143 emails/blocks/giphy/options.php:7
+msgid "Search"
+msgstr "Keresés"
+
+#: plugin.php:457 main/index.php:75
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#: users/massive.php:335
+msgid "One email address per line."
+msgstr "Soronként egy e-mail cím."
+
+#: users/massive.php:240
+msgid "Delete all bounced"
+msgstr "Minden visszapattanó törlése"
+
+#: users/massive.php:230
+msgid "Delete all unsubscribed"
+msgstr "Összes leiratkozó törlése"
+
+#: users/massive.php:218
+msgid "Are you sure you want to mark ALL subscribers as confirmed?"
+msgstr "Biztosan megjelölöd az ÖSSZES feliratkozót, mint megerősített?"
+
+#: users/massive.php:217
+msgid "Are you sure you want to delete ALL not confirmed subscribers?"
+msgstr "Biztosan töröljük az ÖSSZES nem megerősített feliratkozót?"
+
+#: users/massive.php:217
+msgid "Delete all not confirmed"
+msgstr "Összes nem megerősített törlése"
+
+#: users/massive.php:199
+msgid "Are you sure you want to remove ALL subscribers?"
+msgstr "Biztosan eltávolítunk MINDEN feliratkozót?"
+
+#: users/massive.php:194
+msgid "Total collected emails"
+msgstr "Összes összegyűjtött e-mail cím"
+
+#: users/massive.php:158
+msgid "Subscribers Maintenance"
+msgstr "Feliratozók karbantartása"
+
+#: users/index.php:226
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: users/massive.php:190
+msgid "Actions"
+msgstr "Műveletek"
+
+#: users/import.php:151 tnp-header.php:61
+msgid "Import"
+msgstr "Importálás"
+
+#: tnp-header.php:64
+msgid "Export your subscribers list"
+msgstr "Feliratkozók listájának exportálása"
+
+#: tnp-header.php:68
+msgid "All about your subscribers"
+msgstr "Minden a feliratkozókról"
+
+#: tnp-header.php:74
+msgid "List Building"
+msgstr "Listaépítés"
+
+#: main/main.php:239
+msgid "Max emails per hour"
+msgstr "Maximum e-mail óránkét"
+
+#: main/index.php:97
+msgid "These charts are only for example:<br>create and send your first newsletter to have real statistics!"
+msgstr "Ezek a diagramok csak példák:<br>készítsük és küldjük el az első hírlevelünket, hogy valós statisztikáink legyenek!"
+
+#: users/massive.php:188 users/statistics.php:54 users/statistics.php:99
+#: users/index.php:176 users/edit.php:147 plugin.php:464 tnp-header.php:150
+#: main/status.php:182 main/status.php:230 main/status.php:780
+#: main/status.php:881 main/status.php:1001 main/status.php:1104
+#: main/test.php:100 emails/index.php:62 emails/edit.php:419
+msgid "Status"
+msgstr "Állapot"
+
+#: subscription/profile.php:107 users/statistics.php:241 users/edit.php:141
+#: emails/edit.php:413
+msgid "Gender"
+msgstr "Nem"
+
+#: emails/edit.php:473
+msgid "Track clicks and message opening"
+msgstr "Kattintások és üzenet megnyitások követése"
+
+#: emails/new.php:120
+msgid "Back to newsletter themes"
+msgstr "Vissza a hírlevél sablonokhoz"
+
+#: includes/module.php:927
+msgid "Paused"
+msgstr "Szüneteltetve"
+
+#: includes/module.php:925
+msgid "Sent"
+msgstr "Elküldve"
+
+#: unsubscription/index.php:78
+msgid "Goodbye email"
+msgstr "Viszlát e-mail"
+
+#: unsubscription/index.php:69
+msgid "Goodbye message"
+msgstr "Viszlát üzenet"
+
+#: users/statistics.php:29
+msgid "Subscriber statistics"
+msgstr "Feliratkozói statisztikák"
+
+#: users/massive.php:159
+msgid "Please, backup before run a massive action."
+msgstr "Készítsünk biztonsági mentést a tömeges műveletek elvégzése előtt!"
+
+#: users/massive.php:38
+msgid "Subscribers deleted: "
+msgstr "Feliratkozó(k) törölve: "
+
+#: tnp-header.php:59 profile/index.php:62
+msgid "Profile page"
+msgstr "Adatlap oldala"
+
+#: users/index.php:148
+msgid "Show lists"
+msgstr "Listák megjelenítése"
+
+#: users/index.php:137
+msgid "Search text"
+msgstr "Keresendő szöveg"
+
+#: tnp-header.php:107
+msgid "The classic \"write & send\" newsletters"
+msgstr "Hagyományos „írd és küldd” hírlevelek"
+
+#: tnp-header.php:139
+msgid "Change the look of your service emails"
+msgstr "Módosítsd a tranzakciós e-mailek megjelenését"
+
+#: tnp-header.php:92
+msgid "How to give the last goodbye (or avoid it!)"
+msgstr "Hogyan mondjunk búcsút (vagy kerüljük el!)"
+
+#: tnp-header.php:84
+msgid "When and what data to collect"
+msgstr "Mikor és milyen adatok kerüljenek gyűjtésre"
+
+#: tnp-header.php:77
+msgid "The subscription process in detail"
+msgstr "A feliratkozási folyamat részletei"
+
+#: tnp-header.php:66
+msgid "Massive actions: change list, clean up, ..."
+msgstr "Tömeges tevékenységek: lista változtatás, tisztítás, ..."
+
+#: tnp-footer.php:13
+msgid "Your Account"
+msgstr "Fiókod"
+
+#: tnp-footer.php:8
+msgid "Get Premium"
+msgstr "Prémium verzió vásárlása"
+
+#: statistics/view.php:29
+msgid "Statistics of"
+msgstr "Statisztikák"
+
+#: main/main.php:194
+msgid "Reply to"
+msgstr "Válaszcím"
+
+#: subscription/options.php:131 users/massive.php:179 users/edit.php:107
+#: profile/index.php:51 main/info.php:45
+#: emails/themes/vimeo-like/theme-options.php:24
+msgid "General"
+msgstr "Általános"
+
+#: main/index.php:372
+msgid "Profile"
+msgstr "Adatlap"
+
+#: main/index.php:255
+msgid "Problem sending messages? Start here!"
+msgstr "Probléma az üzenetek küldésével? Kezdd itt!"
+
+#: main/index.php:242
+msgid "Read all"
+msgstr "Összes elolvasása"
+
+#: main/index.php:76
+msgid "Your powerful control panel"
+msgstr "Vezérlőpultod"
+
+#: tnp-header.php:123 main/main.php:137
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: tnp-header.php:67 tnp-header.php:109 main/index.php:88 main/index.php:90
+#: main/index.php:310 emails/index.php:99
+msgid "Statistics"
+msgstr "Statisztikák"
+
+#: includes/controls.php:835
+msgid "Proceed?"
+msgstr "Tovább?"
+
+#: emails/index.php:21
+msgid "Message duplicated."
+msgstr "Üzenet másolva."
+
+#: emails/edit.php:330
+msgid "This totally stop the delivery, ok?"
+msgstr "Ez teljesen leállítja a kézbesítést, OK?"
+
+#: tnp-header.php:124
+msgid "Delivery speed, sender details, ..."
+msgstr "Kézbesítés sebessége, küldő adatai, ..."
+
+#: tnp-footer.php:24
+msgid "Stay updated"
+msgstr "Légy naprakész"
+
+#: subscription/profile.php:42
+msgid "Subscription Form Fields and Layout"
+msgstr "Feliratkozási űrlapmezők és elrendezés"
+
+#: main/smtp.php:21
+msgid "Saved. Remember to test your changes right now!"
+msgstr "Mentve. Ne felejtsd el azonnal tesztelni a módosításokat!"
+
+#: main/main.php:184
+msgid "Return path"
+msgstr "Visszatérő e-mail cím"
+
+#: main/main.php:175 main/welcome.php:138
+msgid "Sender name"
+msgstr "Feladó neve"
+
+#: main/main.php:165
+msgid "Sender email address"
+msgstr "Feladó e-mail címe"
+
+#: main/main.php:150
+msgid "Delivery Speed"
+msgstr "Kézbesítés sebessége"
+
+#: main/main.php:39
+msgid "Reply to email is not correct."
+msgstr "A válasz e-mail cím hibás."
+
+#: main/main.php:32
+msgid "Return path email is not correct."
+msgstr "A visszatérő e-mail cím hibás."
+
+#: main/main.php:26
+msgid "The sender email address is not correct."
+msgstr "A feladó e-mail címe hibás."
+
+#: main/info.php:46 emails/themes/vimeo-like/theme-options.php:25
+msgid "Social"
+msgstr "Közösségi média"
+
+#: main/index.php:269
+msgid "Learn how to segment your suscribers"
+msgstr "Tanuld meg hogyan kell a listáidat szegmentálni"
+
+#: includes/controls.php:838
+msgid "Reset"
+msgstr "Visszaállítás"
+
+#: users/index.php:223 main/index.php:369 emails/emails.php:487
+#: emails/edit.php:313
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: includes/module.php:921
+msgid "Sending"
+msgstr "Küldés folyamatban"
+
+#: emails/edit.php:467
+msgid "Hide/show from public sent newsletter list."
+msgstr "A küldött hírlevelek listájának elrejtése / megjelenítése mások számára."
+
+#: emails/edit.php:329
+msgid "Continue"
+msgstr "Folytat"
+
+#: emails/edit.php:328
+msgid "Pause the delivery?"
+msgstr "Küldés szüneteltetése?"
+
+#: tnp-header.php:129
+msgid "External mail server"
+msgstr "Külső e-mail szerver"
+
+#: emails/edit.php:44
+msgid "Delivery definitively cancelled"
+msgstr "Kézbesítés meg lett szakítva"
+
+#: main/index.php:262
+msgid "All Video Tutorials"
+msgstr "Az összes oktatóvideó"
+
+#: emails/emails.php:954
+msgid "There are no test subscribers to send to"
+msgstr "Nincsenek próba-címzettek a küldéshez"
+
+#: emails/emails.php:976 emails/tnp-composer/index-v2.php:117
+#: emails/tnp-composer/index.php:106
+msgid "Read more about test subscribers"
+msgstr "További információ a próba-címzettekről."
+
+#: emails/edit.php:320
+msgid "Start real delivery?"
+msgstr "Kezdjük a tényleges kézbesítést?"
+
+#: users/index.php:139
+msgid "filter by"
+msgstr "szűrés ezzel"
+
+#: emails/edit.php:460
+msgid "Keep private"
+msgstr "Rejtve tartás"
+
+#: emails/edit.php:353
+msgid "Sent on"
+msgstr "Elküldve ekkor"
+
+#: users/index.php:145
+msgid "Reset Filters"
+msgstr "Szűrők törlése"
+
+#: emails/index.php:63
+msgid "Progress"
+msgstr "Haladási mutató"
+
+#: users/import.php:179
+msgid "Override status of existing users"
+msgstr "A meglévő felhasználók állapotának felülvizsgálata"
+
+#: users/import.php:190
+msgid "user data will be overwritten with new informations (like name and preferences)."
+msgstr "a felhasználók adatait felülírják az új adatok (például név és beállítások)."
+
+#: users/import.php:189
+msgid "user data will be updated, existing preferences will be left untouched and new ones will be added."
+msgstr "a felhasználói beállítások frissítésre kerülnek, a meglévő adatok nem változnak, csak kiegészülnek az újakkal."
+
+#: users/import.php:191
+msgid "user data will be left untouched if already present."
+msgstr "a már meglévő felhasználók adatai nem véltoznak"
+
+#: users/index.php:159
+msgid "Go"
+msgstr "Kezdjük"
+
+#: users/massive.php:13
+msgid "Subscribers not confirmed deleted: "
+msgstr "Nem megerősített feliratkozók törlésre kerültek:"
+
+#: users/massive.php:18
+msgid "Subscribers unsubscribed deleted: "
+msgstr "Leiratkozott feliratkozók törlésre kerültek:"
+
+#: users/massive.php:208
+msgid "Unconfirm all"
+msgstr "Összes beállítása nem megerősítettre"
+
+#: subscription/antibot.php:71 includes/controls.php:475
+msgid "Enabled"
+msgstr "Bekapcsolva"
+
+#: users/massive.php:218
+msgid "Confirm all"
+msgstr "Az összes megerősítése"
+
+#: users/massive.php:220
+msgid "We have some tips about global actions, read more."
+msgstr "Van néhány tippünk a globális akciókról, olvass tovább."
+
+#: subscription/template.php:87
+msgid "Messages template"
+msgstr "Üzenetek sablonja"
+
+#: emails/index.php:109
+msgid "Expected total at the end of the delivery may differ due to subscriptions/unsubscriptions occurred meanwhile."
+msgstr "A kézbesítés végén várható teljes érték eltérhet a közben történő fel-/leiratkozások miatt."
+
+#: tnp-header.php:188
+msgid "License active"
+msgstr "Licenckulcs aktív"
+
+#: tnp-header.php:181
+msgid "License expired"
+msgstr "Licenckulcs lejárt"

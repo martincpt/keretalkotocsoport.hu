@@ -1,0 +1,56 @@
+[03-Dec-2020 19:58:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[03-Jan-2021 03:42:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[07-Jan-2021 02:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/index.php on line 18
+[07-Jan-2021 02:30:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Feb-2021 11:57:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[07-Apr-2021 14:39:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[05-May-2021 10:23:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2021 17:11:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[17-May-2021 07:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jun-2021 06:47:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[03-Jul-2021 05:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[03-Jul-2021 08:45:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Aug-2021 00:20:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/footer.php on line 22
+[01-Sep-2021 18:38:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/twentyseventeen/404.php on line 13

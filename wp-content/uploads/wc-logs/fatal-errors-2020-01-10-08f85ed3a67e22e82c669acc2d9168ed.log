@@ -1,0 +1,20 @@
+2020-01-10T02:12:00+00:00 CRITICAL Uncaught Exception: expecting color: failed at `background: fade_out(darken($fw-dropdown-bg-color, 5%), 50%);` /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/assets/style-scss/headers/_menu-style.scss on line 878 in /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2506): scss_parser->throwParseError('expecting color', 18636)
+#1 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1845): scssc->throwError('expecting color')
+#2 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2206): scssc->assertColor(Array)
+#3 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-incl in /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-01-10T02:12:09+00:00 CRITICAL Uncaught Exception: expecting color: failed at `background: fade_out(darken($fw-dropdown-bg-color, 5%), 50%);` /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/assets/style-scss/headers/_menu-style.scss on line 878 in /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2506): scss_parser->throwParseError('expecting color', 18636)
+#1 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1845): scssc->throwError('expecting color')
+#2 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2206): scssc->assertColor(Array)
+#3 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-incl in /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-01-10T04:10:09+00:00 CRITICAL Uncaught Exception: parse error: failed at `$fw-footer-widgets-bg: #f; $fw-footer-widgets-title: #ffffff; $fw-footer-widgets-text-color: #b2b6bb; $fw-footer-bar-bg: #ffffff; $fw-footer-bar-padding-top: 25px; $fw-footer-bar-padding-bot: 25px; $fw-menu-logo-width: 167px; $fw-menu-logo-height: 47px; $theme-color-1: #ef2853; $theme-color-2: #367978; $theme-color-3: #367978; $theme-color-4: #555555; $theme-color-5: #eaeaeb;// Variable` line: 1 in /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2754): scss_parser->throwParseError()
+#1 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php(121): scss_parser->parse('$website-bg-col...')
+#2 /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/the in /home/phamm227/public_html/themes/alone-volunteer-originazition/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+

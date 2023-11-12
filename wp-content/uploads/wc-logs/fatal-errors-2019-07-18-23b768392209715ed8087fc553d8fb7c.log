@@ -1,0 +1,18 @@
+2019-07-18T02:50:36+00:00 CRITICAL Uncaught Exception: unclosed block: failed at `` /home/phamm227/public_html/themes/alone-fundraising/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 6500 in /home/phamm227/public_html/themes/alone-fundraising/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-fundraising/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2758): scss_parser->throwParseError('unclosed block')
+#1 /home/phamm227/public_html/themes/alone-fundraising/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('#page .wpb_imag...')
+#2 /home/phamm227/public_html/themes/alone-fundraising/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-fundraising/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/them in /home/phamm227/public_html/themes/alone-fundraising/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2019-07-18T07:52:40+00:00 CRITICAL Uncaught Error: Call to undefined function give_get_premium_add_ons() in /home/phamm227/public_html/themes/alone-fundraising/wp-content/plugins/give/includes/misc-functions.php:840
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-fundraising/wp-content/plugins/give/includes/misc-functions.php(2361): give_get_plugins(Array)
+#1 /home/phamm227/public_html/themes/alone-fundraising/wp-includes/class-wp-hook.php(286): give_refresh_licenses()
+#2 /home/phamm227/public_html/themes/alone-fundraising/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/phamm227/public_html/themes/alone-fundraising/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home/phamm227/public_html/themes/alone-fundraising/wp-cron.php(133): do_action_ref_array('give_monthly_sc...', Array)
+#5 {main}
+  thrown in /home/phamm227/public_html/themes/alone-fundraising/wp-content/plugins/give/includes/misc-functions.php on line 840
+

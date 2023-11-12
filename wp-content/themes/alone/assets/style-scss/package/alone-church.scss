@@ -1,0 +1,183 @@
+.ch-donate {
+    position: absolute !important;
+    right: 0;
+    top: 0;
+    margin-left: 0 !important;
+    height: 89px;
+    background: #d45f44;
+    line-height: 89px;
+    width: 160px;
+    text-align: center !important;
+}
+.ch-donate:hover{
+	background: #222222;
+}
+.ch-donate button.give-btn.give-btn-modal {
+    display: inline-block !important;
+}
+.help-donate div#give_error_test_mode,.help-donate .give-total-wrap,.help-donate .give-select.give-donation-levels-wrap {
+    display: none !important;
+}
+.help-donate .give-form-wrap.give-display-modal{
+	 background: #fff;
+	bottom: -190px;
+    position: relative;
+}
+.help-donate h2.give-form-title {
+	    color: #989898;
+		margin-bottom: 0;
+    padding: 25px !important;
+    font-size: 20px;
+    text-transform: uppercase;
+	line-height: 22px;
+}
+.help-donate .give-goal-progress {
+    margin-bottom: 35px;
+    padding: 0 25px;
+}
+.help-donate button.give-btn.give-btn-modal {
+    width: 100%;
+    margin-bottom: 0 !important;
+    border-radius: 0;
+	    font-size: 16px;
+    padding: 25px 20px;
+    font-weight: 600;
+}
+.help-donate .give-progress-bar{
+	height:10px;
+}
+.help-donate .give-goal-progress .raised {
+    font-size: 16px;
+	color: #989898;
+}
+body {
+    padding-right: 0 !important;
+}
+.wpb_church_location .ion-ios-arrow-left:before{
+  content:url('http://bearsthemes.com/themes/alone-church/wp-content/uploads/2017/06/prev-1.png')
+}
+.wpb_church_location .ion-ios-arrow-right:before{
+  content:url('http://bearsthemes.com/themes/alone-church/wp-content/uploads/2017/06/next-1.png')
+}
+#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default{
+	    margin-left: 0;
+	padding: 30px 50px;
+    background-color: rgba(0, 0, 0, 0.9);
+	    border-radius: 15px;
+}
+#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .event-featured-image-wrap{
+	display:none;
+}
+#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content{
+	width:100%;
+	margin-left: 0;
+}
+#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .content-entry {
+        width: calc(80% - 120px);
+}
+#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .content-entry .church-event-adress{
+	text-overflow: ellipsis;
+   white-space: nowrap;
+	    overflow: hidden;
+    width: 100%;
+}
+#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .content-entry .title-link .title{
+	color:#fff;
+	text-overflow: ellipsis;
+   white-space: nowrap;
+	    overflow: hidden;
+    width: 100%;
+}
+#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .readmore-link{
+	width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center !important;
+}
+.but-church > button{
+	font-size: 13px !important;
+    padding: 17px 40px !important;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.but-church .vc_btn3-icon {
+    right: 15px !important;
+}
+.but-church > button:hover:before,.church-event-content .readmore-link:hover:before,.help-donate button.give-btn.give-btn-modal:hover:before {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+    -webkit-transition-timing-function: cubic-bezier(0.52,1.64,.37,.66);
+    transition-timing-function: cubic-bezier(0.52,1.64,.37,.66);
+}
+.but-church > button:hover,.church-event-content .readmore-link:hover{
+	color:#fff !important;
+	text-decoration: none !important;
+}
+.but-church > button:before,.church-event-content .readmore-link:before,.help-donate button.give-btn.give-btn-modal:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #222222;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+.but-church > button,.church-event-content .readmore-link,.help-donate button.give-btn.give-btn-modal {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0,0,0,0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
+}
+h3.but-nature:hover{
+	background: #d45f44;
+}
+.ch-donate button.give-btn.give-btn-modal:hover,.ch-donate button.give-btn.give-btn-modal{
+	background:transparent !important;
+	padding: 0 !important;
+}
+#page .wpb_theme_custom_element.wpb_church_location .owl-nav > div{
+	opacity: 1 !important;
+}
+@media only screen and (max-width: 768px){
+  .help-donate .give-form-wrap.give-display-modal {
+    bottom: 0px;
+}
+	.wpb_logo_banner .owl-nav,.wpb_church_location .owl-nav{
+		 opacity: 1 !important;
+    display: block !important;
+	}
+	.wpb_logo_banner .owl-nav .owl-next{
+		right:40px !important;
+	}
+	#page .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .event-start-date .date-entry .date-entry-inner .d-d{
+  font-size: 30px;
+	}
+.but-church.vc_custom_1517558858071 {
+    margin-left: 0px !important;
+}
+	#page .rev_slider .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .readmore-link {
+    line-height: 40px !important;
+}
+}
+.sweet-overlay{display: none !important;}
+.showSweetAlert{display: none !important;}

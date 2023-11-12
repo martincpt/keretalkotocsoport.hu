@@ -1,0 +1,24 @@
+2020-08-01T19:43:13+00:00 CRITICAL Uncaught Exception: expecting color: failed at `border-bottom: 1px solid lighten($fw-footer-widgets-bg, 5%);` /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/assets/style-scss/widgets/_widget-facebook.scss on line 21 in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2506): scss_parser->throwParseError('expecting color', 529)
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1845): scssc->throwError('expecting color')
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2199): scssc->assertColor(Array)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1732): scssc->lib_lighten(Array, Object(scssc))
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/include hiba /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php fájlban a 4066 sorban
+
+2020-08-01T19:43:14+00:00 CRITICAL Uncaught Exception: expecting color: failed at `border-bottom: 1px solid lighten($fw-footer-widgets-bg, 5%);` /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/assets/style-scss/widgets/_widget-facebook.scss on line 21 in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2506): scss_parser->throwParseError('expecting color', 529)
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1845): scssc->throwError('expecting color')
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2199): scssc->assertColor(Array)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1732): scssc->lib_lighten(Array, Object(scssc))
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/include hiba /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php fájlban a 4066 sorban
+
+2020-08-01T19:43:14+00:00 CRITICAL Uncaught Exception: expecting color: failed at `border-bottom: 1px solid lighten($fw-footer-widgets-bg, 5%);` /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/assets/style-scss/widgets/_widget-facebook.scss on line 21 in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2506): scss_parser->throwParseError('expecting color', 529)
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1845): scssc->throwError('expecting color')
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2199): scssc->assertColor(Array)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1732): scssc->lib_lighten(Array, Object(scssc))
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/include hiba /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/theme-includes/includes/scss.inc.php fájlban a 4066 sorban
+

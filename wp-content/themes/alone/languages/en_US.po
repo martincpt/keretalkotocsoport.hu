@@ -1,0 +1,3056 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: alone/comments.php:69
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/helpers.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: alone/templates/blog-2/single/content-audio.php:63
+#: alone/templates/blog-2/single/content-gallery.php:63
+#: alone/templates/blog-2/single/content-link.php:63
+#: alone/templates/blog-2/single/content-quote.php:63
+#: alone/templates/blog-2/single/content-video.php:63
+#: alone/templates/blog-2/single/content.php:63
+#: alone/templates/single-location/content.php:69
+#: alone/templates/single-sermon/content.php:55
+#: alone/theme-includes/helpers.php:2828
+msgid " "
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "#"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:1
+msgid "$ 178,456"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:71
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:69
+msgid "% replies added"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_grid_item/attributes/give_goal_progress.php:1
+#: alone/templates/single-give/content-style-2.php:200
+msgid "%1$s of %2$s raised"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1
+msgid "%1$s: %2$s"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:89
+msgid "%s Plugin"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_grid_item/attributes/give_goal_progress.php:1
+#: alone/templates/single-give/content-style-2.php:200
+msgid "%s%% funded"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "(will not be shared)"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "- Display Blank -"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:71
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:71
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:82
+msgid "1 Month"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:81
+msgid "1 Week"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:85
+msgid "1 Year"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:69
+msgid "1 reply added"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_countdown.php:1
+msgid "2020"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:1
+msgid "28 January, 2016"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:83
+msgid "3 Month"
+msgstr ""
+
+#. Text in echo
+#: alone/404.php:15
+msgid "404"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:84
+msgid "6 Month"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-login/class-widget-fw-login.php:1
+msgid "A login form widget."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Absolute Header"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Add Menu"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "Add To Cart"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Add logo(position) & menu(position) you want display"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Add logo(position) & sidebar you want display"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Add menu you want display"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Add sidebar you want display"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "Add to cart"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Add your typography from google/font"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/portfolio/helpers.php:1
+#: alone/theme-includes/helpers.php:2493
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:91
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:80
+msgid "All time"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone - NGO"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone 5"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Animal"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Autism"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Candidate"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Charitable"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Charity"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Childrents"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Church"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Church 2"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Community Church"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Event Party"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Foundation"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Fundraising"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Give"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Minimal"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Minimal 2"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Minimal 3"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone NGO Organization"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Political"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "Alone Rescue"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: alone/content-author.php:17
+#: alone/content-author.php:18
+msgid "Article by"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Attention Seekers"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/blog-2/layout/background/content-video.php:35
+#: alone/templates/blog-2/layout/background/content.php:35
+#: alone/templates/blog-2/layout/default/content-audio.php:36
+#: alone/templates/blog-2/layout/default/content-gallery.php:36
+#: alone/templates/blog-2/layout/default/content-link.php:36
+#: alone/templates/blog-2/layout/default/content-quote.php:37
+#: alone/templates/blog-2/layout/default/content-video.php:51
+#: alone/templates/blog-2/layout/default/content.php:48
+#: alone/templates/blog-2/single/content-audio.php:42
+#: alone/templates/blog-2/single/content-gallery.php:42
+#: alone/templates/blog-2/single/content-link.php:42
+#: alone/templates/blog-2/single/content-quote.php:42
+#: alone/templates/blog-2/single/content-video.php:42
+#: alone/templates/blog-2/single/content.php:42
+#: alone/templates/search/content.php:16
+#: alone/templates/single-location/content.php:48
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Auto"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Auto - Default value, the background image has the original width and height. Cover - Scale the background image so that the background area is completely covered by the image. Contain - Scale the image to the largest size such that both its width and height can fit inside the content area."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Auto - Default value, the background image has the original width and height.Cover - Scale the background image so that the background area is completely covered by the image. Contain - Scale the image to the largest size such that both its width and height can fit inside the content area."
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:3
+msgid "Auto Setup"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:351
+msgid "Back to top"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Basic"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Bearsthemes"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2493
+#: alone/theme-includes/helpers.php:2832
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Body Text"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Body Text Color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Bottom"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Bouncing Entrances"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Bouncing Exits"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Business"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Buttons"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Buttons Color"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "Buy product"
+msgstr ""
+
+#. Text in function
+#: alone/templates/blog-2/layout/background/content-video.php:36
+#: alone/templates/blog-2/layout/background/content.php:36
+#: alone/templates/blog-2/layout/default/content-audio.php:37
+#: alone/templates/blog-2/layout/default/content-gallery.php:37
+#: alone/templates/blog-2/layout/default/content-link.php:37
+#: alone/templates/blog-2/layout/default/content-quote.php:38
+#: alone/templates/blog-2/layout/default/content-video.php:52
+#: alone/templates/blog-2/layout/default/content.php:49
+#: alone/templates/blog-2/single/content-audio.php:43
+#: alone/templates/blog-2/single/content-gallery.php:43
+#: alone/templates/blog-2/single/content-link.php:43
+#: alone/templates/blog-2/single/content-quote.php:43
+#: alone/templates/blog-2/single/content-video.php:43
+#: alone/templates/blog-2/single/content.php:43
+#: alone/templates/search/content.php:17
+#: alone/templates/single-location/content.php:49
+msgid "By "
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Change the style / typography of the breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Change the style / typography of the description"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Change the style / typography of the title"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:5
+msgid "Choose one of the install methods below."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Choose the subtitle font"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Choose the title font"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Class"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:142
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Color 1"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Color 2"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Color 3"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Color 4"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Color 5"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Color Palette"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Colors"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Colors section"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+#: alone/templates/blog-1/content-audio.php:49
+#: alone/templates/blog-1/content-gallery.php:47
+#: alone/templates/blog-1/content-link.php:50
+#: alone/templates/blog-1/content-quote.php:50
+#: alone/templates/blog-1/content-video.php:49
+#: alone/templates/blog-1/content.php:52
+#: alone/templates/blog-2/layout/background/content-video.php:41
+#: alone/templates/blog-2/layout/background/content-video.php:43
+#: alone/templates/blog-2/layout/background/content.php:41
+#: alone/templates/blog-2/layout/background/content.php:43
+#: alone/templates/blog-2/layout/default/content-audio.php:42
+#: alone/templates/blog-2/layout/default/content-audio.php:45
+#: alone/templates/blog-2/layout/default/content-gallery.php:42
+#: alone/templates/blog-2/layout/default/content-gallery.php:45
+#: alone/templates/blog-2/layout/default/content-link.php:42
+#: alone/templates/blog-2/layout/default/content-link.php:45
+#: alone/templates/blog-2/layout/default/content-quote.php:43
+#: alone/templates/blog-2/layout/default/content-quote.php:46
+#: alone/templates/blog-2/layout/default/content-video.php:20
+#: alone/templates/blog-2/layout/default/content-video.php:22
+#: alone/templates/blog-2/layout/default/content.php:16
+#: alone/templates/blog-2/layout/default/content.php:18
+#: alone/templates/blog-2/single/content-audio.php:48
+#: alone/templates/blog-2/single/content-audio.php:50
+#: alone/templates/blog-2/single/content-gallery.php:48
+#: alone/templates/blog-2/single/content-gallery.php:50
+#: alone/templates/blog-2/single/content-link.php:48
+#: alone/templates/blog-2/single/content-link.php:50
+#: alone/templates/blog-2/single/content-quote.php:48
+#: alone/templates/blog-2/single/content-quote.php:50
+#: alone/templates/blog-2/single/content-video.php:48
+#: alone/templates/blog-2/single/content-video.php:50
+#: alone/templates/blog-2/single/content.php:48
+#: alone/templates/blog-2/single/content.php:50
+#: alone/templates/search/content.php:22
+#: alone/templates/search/content.php:24
+#: alone/templates/single-location/content.php:54
+#: alone/templates/single-location/content.php:56
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: alone/templates/blog-2/layout/background/content-video.php:43
+#: alone/templates/blog-2/layout/background/content.php:43
+#: alone/templates/blog-2/layout/default/content-audio.php:45
+#: alone/templates/blog-2/layout/default/content-gallery.php:45
+#: alone/templates/blog-2/layout/default/content-link.php:45
+#: alone/templates/blog-2/layout/default/content-quote.php:46
+#: alone/templates/blog-2/layout/default/content-video.php:22
+#: alone/templates/blog-2/layout/default/content.php:18
+#: alone/templates/blog-2/single/content-audio.php:50
+#: alone/templates/blog-2/single/content-gallery.php:50
+#: alone/templates/blog-2/single/content-link.php:50
+#: alone/templates/blog-2/single/content-quote.php:50
+#: alone/templates/blog-2/single/content-video.php:50
+#: alone/templates/blog-2/single/content.php:50
+#: alone/templates/search/content.php:24
+#: alone/templates/single-location/content.php:56
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: alone/comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Contain"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Container Background"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Content Align"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Copyright"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Cover"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Create a parallax effect on scroll?"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/sidebars/views/backend-main-view.php:20
+msgid "Created"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Custom Class"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Custom Position Logo & Menu"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Custom Position Logo & Sidebar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Custom Position Menu"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:351
+msgid "Custom Style (themes)"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:351
+msgid "Custom Thumb Round Style (themes)"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Custom class"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Custom position Logo & Sidebar for header 3"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-countdown-element/controls.php:1
+#: alone/templates/blog-1/content-audio.php:43
+#: alone/templates/blog-1/content-gallery.php:41
+#: alone/templates/blog-1/content-link.php:44
+#: alone/templates/blog-1/content-quote.php:44
+#: alone/templates/blog-1/content-video.php:43
+#: alone/templates/blog-1/content.php:46
+#: alone/templates/blog-2/layout/background/content-video.php:30
+#: alone/templates/blog-2/layout/background/content.php:30
+#: alone/templates/blog-2/layout/default/content-audio.php:31
+#: alone/templates/blog-2/layout/default/content-gallery.php:31
+#: alone/templates/blog-2/layout/default/content-link.php:31
+#: alone/templates/blog-2/layout/default/content-quote.php:32
+#: alone/templates/blog-2/layout/default/content-video.php:46
+#: alone/templates/blog-2/layout/default/content.php:43
+#: alone/templates/blog-2/single/content-audio.php:37
+#: alone/templates/blog-2/single/content-gallery.php:37
+#: alone/templates/blog-2/single/content-link.php:37
+#: alone/templates/blog-2/single/content-quote.php:37
+#: alone/templates/blog-2/single/content-video.php:37
+#: alone/templates/blog-2/single/content.php:37
+#: alone/templates/search/content.php:11
+#: alone/templates/single-location/content.php:43
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "Default"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:93
+msgid "Demo Content"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php:79
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:103
+#: alone/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php:99
+msgid "Display Date?"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:99
+msgid "Display Images?"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php:95
+msgid "Display Logo?"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Display Name"
+msgstr ""
+
+#. Text in function
+#: alone/templates/single-give/content-style-2.php:200
+msgid "Donors:"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Dropdown Bg Color"
+msgstr ""
+
+#. Text in function
+#: alone/templates/comments/comments-template-1.php:23
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Email Address"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enable image overlay color?"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enable scroll to top?"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enable the header top bar?"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/single.php:68
+msgid "End"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enter a class (Ex: body .custom-font-style-1)"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enter a name (it is for internal use and will not appear on the front end)"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link facebook of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link flickr of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link google plus of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link instagram of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link linkedin of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link pinterest of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link tumblr of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter link twitter of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter team age number of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter team email number of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter team phone number of post."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/post_team.php:2
+msgid "Enter team position of post. EX: Business Analysis"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enter the subtitle"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enter the title"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Enter the top and bottom margin"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Enterprise"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Extra Typography"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php:1
+msgid "Facebook - BT"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php:1
+msgid "Facebook Page Steam"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Fading Entrances"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Fading Exits"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Flippers"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php:74
+#: alone/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php:90
+msgid "Follow Button Title:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-instagram/class-widget-fw-instagram.php:60
+msgid "Follow button title:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:37
+msgid "Font face"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Footer Copyright"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Footer Sidebar List"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Footer Widgets"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/sidebars/views/backend-main-view.php:17
+msgid "For Grouped Pages"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/sidebars/views/backend-main-view.php:18
+msgid "For Specific Pages"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-login/views/widget.php:1
+msgid "Forgot Password?"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2820
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:351
+msgid "General Widget Area"
+msgstr ""
+
+#. Text in function
+#: alone/content-none.php:9
+msgid "Get started here"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/sidebars/views/backend-main-view.php:9
+#: alone/theme-includes/hooks.php:1690
+msgid "Go to Docs"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/single.php:61
+msgid "Google Calendar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "H1"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "H1 - H6 Tag"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "H2"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "H3"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "H4"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "H5"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "H6"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header Full Content"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header Menu"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header Padding"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header Sticky Padding"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header Sub-Menu"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header Top Bar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Header Type"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_featured_box.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_service_box.php:1
+msgid "Heading text"
+msgstr ""
+
+#. Text in function
+#: alone/templates/notification_center/content-login.php:28
+msgid "Hi, %s"
+msgstr ""
+
+#. Text in echo
+#: alone/404.php:19
+msgid "Homepage."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_featured_box.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_service_box.php:1
+msgid "I am featured box. Click edit button to change this text."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/client_review.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_carousel.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_carousel_blog_card.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "I am test text block one. Click edit button to change this text."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/client_review.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_carousel.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_carousel_blog_card.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "I am test text block three. Click edit button to change this text."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/client_review.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_carousel.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_carousel_blog_card.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "I am test text block two. Click edit button to change this text."
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/single.php:62
+msgid "Ical Export"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Image Logo Sticky"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/VerifyTheme.php:1
+msgid "Important notice: In order to receive all benefits of our theme, you need to activate your copy of the theme. \\nBy activating the theme license you will unlock premium options - import demo data, install, update plugins and official support. Please visit Envato Settings page to activate your copy of the theme"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Individual"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1662
+msgid "Ingredients"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-instagram/class-widget-fw-instagram.php:1
+msgid "Instagram - BT"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-instagram/class-widget-fw-instagram.php:1
+msgid "Instagram widget"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1731
+msgid "Install Demo"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1731
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:34
+msgid "Install Plugins & Demo Content"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:66
+msgid "Install Plugins Only"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1673
+msgid "Instructions"
+msgstr ""
+
+#. Text in echo
+#: alone/404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#. Text in echo
+#: alone/content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:42
+msgid "Italic"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_carousel.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_carousel_blog_card.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "Item one"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_carousel.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_carousel_blog_card.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "Item three"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_carousel.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_carousel_blog_card.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "Item two"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-gallery-element/shortcode.php:1
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-team-element/shortcode.php:1
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-testimonals-element/shortcode.php:1
+msgid "Layout not exist!"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Leave your comment"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:118
+msgid "Letter spacing"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Lightspeed"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:111
+msgid "Line height"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Links Color"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/single-give/content-style-2.php:169
+msgid "List Donors"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_location_church_carousel.php:130
+msgid "Location Page"
+msgstr ""
+
+#. Text in function
+#: alone/templates/notification_center/content-login.php:1
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Log out?"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-login/views/widget.php:1
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-login/class-widget-fw-login.php:1
+msgid "Login - BT"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/helpers.php:2465
+#: alone/theme-includes/helpers.php:2445
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Logo & Sidebar Padding"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Logo Type"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/notification_center/content-login.php:29
+msgid "Logout"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Make the header full content?"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Make the header position absolute?"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Make the header sticky?"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/sidebars/views/backend-main-view.php:8
+msgid "Manage Sidebars"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/templates/headers/header-mobi.php:22
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Menu Item Color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Menu Items Spacing"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Menu Position"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Menu Type"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Month"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/single.php:66
+msgid "More"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:74
+msgid "Most Commented Posts"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Newer"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:84
+#: alone/framework-customizations/extensions/portfolio/views/single.php:90
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Next Page"
+msgstr ""
+
+#. Text in function
+#: alone/post-navigation.php:14
+msgid "Next Story"
+msgstr ""
+
+#. Text in function
+#: alone/templates/single-give/give-form-navigation.php:2
+msgid "Next post"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "No-Repeat"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/helpers.php:1
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:42
+msgid "Normal"
+msgstr ""
+
+#. Text in function
+#: alone/templates/single-give/content-style-2.php:173
+msgid "Not item...!"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1680
+msgid "Notes"
+msgstr ""
+
+#. Text in echo
+#: alone/content-none.php:7
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/ajax.php:1
+msgid "Nothing found!"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:66
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php:70
+msgid "Number of Posts:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php:86
+msgid "Number of Tweets:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-instagram/class-widget-fw-instagram.php:56
+msgid "Number of images:"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:42
+msgid "Oblique"
+msgstr ""
+
+#. Text in echo
+#: alone/404.php:16
+msgid "Ohh! Page not found"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Older"
+msgstr ""
+
+#. Text in echo
+#: alone/404.php:19
+msgid "Or go back to"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Overlay Color"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/hooks.php:1727
+msgid "Page Builder Conflict !!!"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php:66
+msgid "Page Link:"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/portfolio/views/single.php:67
+#: alone/page.php:36
+#: alone/templates/blog-1/single/content-audio.php:30
+#: alone/templates/blog-1/single/content-gallery.php:42
+#: alone/templates/blog-1/single/content-link.php:33
+#: alone/templates/blog-1/single/content-quote.php:33
+#: alone/templates/blog-1/single/content-video.php:33
+#: alone/templates/blog-1/single/content.php:28
+#: alone/templates/blog-2/single/content-audio.php:70
+#: alone/templates/blog-2/single/content-gallery.php:81
+#: alone/templates/blog-2/single/content-link.php:70
+#: alone/templates/blog-2/single/content-quote.php:70
+#: alone/templates/blog-2/single/content-video.php:70
+#: alone/templates/blog-2/single/content.php:67
+#: alone/templates/single-location/content.php:97
+#: alone/templates/team/single/content.php:28
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Parallax Effect"
+msgstr ""
+
+#. Text in function
+#: alone/templates/notification_center/content-login.php:1
+#: alone/theme-includes/widgets/fw-login/views/widget.php:1
+msgid "Password"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/comments/comments-template-1.php:23
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-instagram/views/widget.php:28
+msgid "Please check the widget data"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Please enter the copyright text"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-image-item-element/shortcode.php:9
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-portfolio-element/shortcode.php:32
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-products-element/shortcode.php:33
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-recent-post-element/shortcode.php:22
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-team-item-element/shortcode.php:12
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-testimonal-item-element/shortcode.php:19
+msgid "Please install all plugins required!"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Please select menu type"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Please select sitebar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Please use an image that is taller then the section's height in order for the parallax to work properly. If you set the speed at 1 you'll need an image twice the section's height."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:11
+msgid "Plugins & Demo Content"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:43
+msgid "Plugins Only"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:1
+msgid "Popular/Recent/Most Commented Posts."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Position"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Position Logo & Menu"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Position Logo & Sidebar"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/blog-1/single/content-audio.php:16
+#: alone/templates/blog-1/single/content-gallery.php:19
+#: alone/templates/blog-1/single/content-link.php:18
+#: alone/templates/blog-1/single/content-quote.php:18
+#: alone/templates/blog-1/single/content-video.php:18
+#: alone/templates/blog-1/single/content.php:16
+#: alone/templates/team/single/content.php:16
+msgid "Post by"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/blog-1/single/content-audio.php:17
+#: alone/templates/blog-1/single/content-gallery.php:20
+#: alone/templates/blog-1/single/content-link.php:19
+#: alone/templates/blog-1/single/content-quote.php:19
+#: alone/templates/blog-1/single/content-video.php:19
+#: alone/templates/blog-1/single/content.php:17
+#: alone/templates/team/single/content.php:17
+msgid "Post date"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/blog-1/single/content-audio.php:20
+#: alone/templates/blog-1/single/content-gallery.php:23
+#: alone/templates/blog-1/single/content-link.php:22
+#: alone/templates/blog-1/single/content-quote.php:22
+#: alone/templates/blog-1/single/content-video.php:22
+#: alone/templates/blog-1/single/content.php:20
+#: alone/templates/team/single/content.php:20
+msgid "Post in category"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:1
+msgid "Posts - BT"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Premium"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Prev Page"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:84
+#: alone/framework-customizations/extensions/portfolio/views/single.php:85
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: alone/post-navigation.php:13
+msgid "Previous Story"
+msgstr ""
+
+#. Text in function
+#: alone/templates/single-give/give-form-navigation.php:2
+msgid "Previous post"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/helpers.php:2465
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2493
+#: alone/theme-includes/helpers.php:2832
+msgid "Products"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-recent-post-element/layouts/background.php:14
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-recent-post-element/layouts/default.php:13
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-recent-post-element/layouts/default.php:23
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_posts_slider_2.php:129
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_sermon_slider.php:131
+#: alone/templates/blog-2/layout/default/content-video.php:17
+#: alone/templates/blog-2/layout/default/content.php:13
+#: alone/templates/give/content.php:28
+#: alone/templates/recipe/content-recipe-1.php:49
+#: alone/theme-includes/helpers.php:1299
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: alone/content-none.php:9
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:72
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/related-articles/related-articles-1.php:13
+msgid "Related Articles"
+msgstr ""
+
+#. Text in echo
+#: alone/woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#. Text in function
+#: alone/templates/notification_center/content-login.php:1
+#: alone/theme-includes/widgets/fw-login/views/widget.php:1
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Repeat"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Repeat-X"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Repeat-Y"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Rotating Entrances"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Rotating Exits"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:85
+msgid "Script"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Scroll to Top Button"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2493
+#: alone/theme-includes/helpers.php:2832
+msgid "Search results"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/helpers.php:2465
+msgid "Secondary Menu"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/ajax.php:1
+msgid "See all results"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:89
+msgid "Select Category:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:78
+msgid "Select Days:"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "Select Options"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select Type"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:70
+msgid "Select Type:"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select buttons hover color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select header background color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select how will the background repeat"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "Select options"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the background color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the background color for Logo & Sidebar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the background for your widget area"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the background size"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the content align"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the copyright background color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the copyright position"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the dropdown background color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the footer widgets body text color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the footer widgets titles color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the header background opacity"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the header's top bar background color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the horizontal background position"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the image overlay color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the logo type"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the menu items color (level 1)"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the menu items color hover (level 1)"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the menu items hover color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the menu items spacing in pixels"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the menu position"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the overlay color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the overlay color opacity in %"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the parallax speed"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the patern overlay"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the prefered header type"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the shadow color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the sub menu items hover color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the vertical background position"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the website background color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the website container background"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the website width transform header mobi in px"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select the width in %"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Select your website's width"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Shadow Color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Shadow Effect"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2827
+msgid "Sharing"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/single.php:92
+msgid "Sharing: "
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Show footer widgets?"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-login/class-widget-fw-login.php:60
+msgid "Show forgot password"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-login/class-widget-fw-login.php:57
+msgid "Show remember button"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/helpers.php:2445
+msgid "Sidebar Left"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Sidebar List"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/helpers.php:2445
+msgid "Sidebar Right"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Sign Up"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Sitebar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:104
+msgid "Size"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:75
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:98
+msgid "Skip Auto Setup"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Sliding Entrances"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Sliding Exits"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in echo
+#: alone/content-none.php:11
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/loop-default.php:22
+msgid "Space"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Spacing"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/single.php:72
+msgid "Speakers"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Specials"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/single.php:66
+msgid "Start"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Sticky Header"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:97
+msgid "Style"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Sub Menu Items Spacing"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1731
+msgid "Support"
+msgstr ""
+
+#. Text in function
+#: alone/templates/blog-1/single/content-audio.php:30
+#: alone/templates/blog-1/single/content-gallery.php:42
+#: alone/templates/blog-1/single/content-link.php:33
+#: alone/templates/blog-1/single/content-quote.php:33
+#: alone/templates/blog-1/single/content-video.php:33
+#: alone/templates/blog-1/single/content.php:28
+#: alone/templates/blog-2/single/content-audio.php:70
+#: alone/templates/blog-2/single/content-gallery.php:81
+#: alone/templates/blog-2/single/content-link.php:70
+#: alone/templates/blog-2/single/content-quote.php:70
+#: alone/templates/blog-2/single/content-video.php:70
+#: alone/templates/blog-2/single/content.php:67
+#: alone/templates/single-location/content.php:97
+#: alone/templates/team/single/content.php:28
+msgid "Tags: "
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-countdown-element/controls.php:1
+msgid "Template"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-button-element/shortcode.php:1
+#: alone/framework-customizations/extensions/bearsthemes-cornerstone/includes/bears-underline-element/shortcode.php:1
+msgid "Template not exist!"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Text Uppercase"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "The default color palette can be changed from the"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/auto_setup.php:5
+msgid "The update process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1731
+msgid "Theme Requirements"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_events_church.php:42
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_events_listing.php:42
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_events_slider.php:92
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_team.php:62
+msgid "There are no event to display!"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_give_forms_listing.php:112
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_give_forms_slider.php:111
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_location_church_carousel.php:130
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_posts_slider_2.php:129
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_sermon_slider.php:131
+msgid "There are no posts to display!"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "These options apply only to pages created with the default template (default WordPress pages) and not with the Visual Builder"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "This absolute positioning will put the header on top of the header image."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Title Bar"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Title Bar Image Background"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Title bar Spacing"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-facebook-page-stream/class-widget-fw-facebook-page-stream.php:62
+#: alone/theme-includes/widgets/fw-instagram/class-widget-fw-instagram.php:48
+#: alone/theme-includes/widgets/fw-login/class-widget-fw-login.php:52
+#: alone/theme-includes/widgets/fw-posts/class-widget-fw-posts.php:62
+#: alone/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php:78
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Titles Color"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Top"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Transform Header Mobi"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php:1
+msgid "Twitter - BT"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/notification_center/content-search.php:5
+msgid "Type to search..."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Typography"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_pricing_table.php:1
+msgid "Ultimate"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/sub-includes/auto-setup/views/install_setup.php:85
+msgid "Unyson Framework"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/class-tgm-plugin-activation.php:1
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Upload a title bar image"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Upload logo image"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Use logo as retina?"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/sidebars/views/backend-main-view.php:11
+msgid "Use this section to create or set sidebars for different pages"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-twitter/class-widget-fw-twitter.php:82
+msgid "User:"
+msgstr ""
+
+#. Text in function
+#: alone/templates/notification_center/content-login.php:1
+#: alone/theme-includes/widgets/fw-login/views/widget.php:1
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/widgets/fw-instagram/class-widget-fw-instagram.php:52
+msgid "Username:"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2810
+msgid "Video"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/blog-1/content-audio.php:55
+#: alone/templates/blog-1/content-gallery.php:53
+#: alone/templates/blog-1/content-link.php:56
+#: alone/templates/blog-1/content-quote.php:56
+#: alone/templates/blog-1/content-video.php:55
+#: alone/templates/blog-1/content.php:58
+#: alone/templates/blog-2/layout/background/content-video.php:47
+#: alone/templates/blog-2/layout/background/content-video.php:49
+#: alone/templates/blog-2/layout/background/content.php:47
+#: alone/templates/blog-2/layout/background/content.php:49
+#: alone/templates/blog-2/layout/default/content-audio.php:49
+#: alone/templates/blog-2/layout/default/content-audio.php:52
+#: alone/templates/blog-2/layout/default/content-gallery.php:49
+#: alone/templates/blog-2/layout/default/content-gallery.php:52
+#: alone/templates/blog-2/layout/default/content-link.php:49
+#: alone/templates/blog-2/layout/default/content-link.php:52
+#: alone/templates/blog-2/layout/default/content-quote.php:50
+#: alone/templates/blog-2/layout/default/content-quote.php:53
+#: alone/templates/blog-2/layout/default/content-video.php:26
+#: alone/templates/blog-2/layout/default/content-video.php:28
+#: alone/templates/blog-2/layout/default/content.php:22
+#: alone/templates/blog-2/layout/default/content.php:24
+#: alone/templates/blog-2/single/content-audio.php:54
+#: alone/templates/blog-2/single/content-audio.php:56
+#: alone/templates/blog-2/single/content-gallery.php:54
+#: alone/templates/blog-2/single/content-gallery.php:56
+#: alone/templates/blog-2/single/content-link.php:54
+#: alone/templates/blog-2/single/content-link.php:56
+#: alone/templates/blog-2/single/content-quote.php:54
+#: alone/templates/blog-2/single/content-quote.php:56
+#: alone/templates/blog-2/single/content-video.php:54
+#: alone/templates/blog-2/single/content-video.php:56
+#: alone/templates/blog-2/single/content.php:54
+#: alone/templates/blog-2/single/content.php:56
+#: alone/templates/search/content.php:28
+#: alone/templates/search/content.php:30
+#: alone/templates/single-location/content.php:60
+#: alone/templates/single-location/content.php:62
+msgid "View"
+msgstr ""
+
+#. Text in echo
+#: alone/framework-customizations/extensions/events/views/loop-default.php:55
+#: alone/framework-customizations/extensions/portfolio/views/loop-default.php:40
+msgid "View Details"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:2465
+msgid "View products"
+msgstr ""
+
+#. Text in function
+#: alone/templates/blog-2/layout/background/content-video.php:49
+#: alone/templates/blog-2/layout/background/content.php:49
+#: alone/templates/blog-2/layout/default/content-audio.php:52
+#: alone/templates/blog-2/layout/default/content-gallery.php:52
+#: alone/templates/blog-2/layout/default/content-link.php:52
+#: alone/templates/blog-2/layout/default/content-quote.php:53
+#: alone/templates/blog-2/layout/default/content-video.php:28
+#: alone/templates/blog-2/layout/default/content.php:24
+#: alone/templates/blog-2/single/content-audio.php:56
+#: alone/templates/blog-2/single/content-gallery.php:56
+#: alone/templates/blog-2/single/content-link.php:56
+#: alone/templates/blog-2/single/content-quote.php:56
+#: alone/templates/blog-2/single/content-video.php:56
+#: alone/templates/blog-2/single/content.php:56
+#: alone/templates/search/content.php:30
+#: alone/templates/single-location/content.php:62
+msgid "Views"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Website Background"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Website Width"
+msgstr ""
+
+#. Text in echo
+#: alone/theme-includes/includes/option-types/tf-typography/view.php:73
+msgid "Weight"
+msgstr ""
+
+#. Text in echo
+#: alone/templates/notification_center/content-login.php:35
+msgid "Welcome back,"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Width"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: alone/woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "You must be"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/client_review.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:1
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Your browser does not support the audio tag."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/helpers.php:1299
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#. Text in echo
+#: alone/templates/comments/comments-template-1.php:58
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Zoom Entrances"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "Zoom Exits"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "bottom "
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounce"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceIn"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceInDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceInLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceInRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceInUp"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceOut"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceOutDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceOutLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceOutRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "bounceOutUp"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/VerifyTheme.php:1
+msgid "cURL Error"
+msgstr ""
+
+#. Text in function
+#: alone/templates/recipe/content-recipe-1.php:71
+msgid "cook time"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeIn"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInDownBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInLeftBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInRightBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInUp"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeInUpBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOut"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutDownBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutRightBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutUp"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "fadeOutUpBig"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "flash"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "flip"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "flipInX"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "flipInY"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "flipOutX"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "flipOutY"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "found in the Theme Settings page"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "hinge"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "hover state"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "jello"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "lightSpeedIn"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "lightSpeedOut"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "logged in"
+msgstr ""
+
+#. Text in function
+#: alone/templates/recipe/content-recipe-1.php:1
+msgid "min"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/hooks.php:1690
+msgid "more"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "normal state"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "one"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/client_review.php:1
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:1
+msgid "position"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "pulse"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/ajax.php:1
+msgid "result(s) found for"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rollIn"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rollOut"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateIn"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateInDownLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateInDownRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateInUpLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateInUpRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateOut"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateOutDownRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rotateOutUpRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "rubberBand"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "shake"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideInDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideInLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideInRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideInUp"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideOutDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideOutLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideOutRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "slideOutUp"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "swing"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "tada"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "three"
+msgstr ""
+
+#. Text in function
+#: alone/comments.php:1
+msgid "to post a comment."
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/theme/options/customizer.php:1
+msgid "top"
+msgstr ""
+
+#. Text in function
+#: alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_logo_carousel.php:1
+msgid "two"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "wobble"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomIn"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomInDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomInLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomInRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomInUp"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomOut"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomOutDown"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomOutLeft"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomOutRight"
+msgstr ""
+
+#. Text in function
+#: alone/theme-includes/includes/option-types/tf-animation/view.php:1
+msgid "zoomOutUp"
+msgstr ""

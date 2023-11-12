@@ -1,0 +1,191 @@
+@import "alone-ngo";
+@import "alone-5";
+@import "alone-fundraising";
+@import "alone-church-2";
+@import "alone-community-church";
+@import "alone-organization";
+@import "alone-foundation";
+@import "alone-give";
+@import "alone-candidate";
+@import "alone-childrents";
+@import "alone-church";
+@import "alone-political";
+@import "alone-autism";
+@import "alone-event-party";
+@import "alone-charitable";
+@import "alone-conference";
+.bt-top-left{
+  li{
+    display: inline-block;
+    margin-right: 15px;
+    &:last-child{
+      margin-right: 0px;
+    }
+    i{
+      margin-right: 5px;
+      color: $accent-color;
+    }
+  }
+  @media (max-width: 350px) {
+    li{
+      margin-right: 0;
+    }
+  }
+}
+#page .bt-newsletter-section {
+    z-index: 9;
+}
+.row-style-20-top {
+    z-index: 9;
+}
+.vc_column-inner.vc_custom_1564992391991 {
+    z-index: 9;
+    position: relative;
+}
+.row-style-30-top {
+    z-index: 9;
+}
+.pi-upcom {
+    z-index: 9;
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default{
+	    margin-left: 0;
+	padding: 30px 50px;
+    background-color: rgba(0, 0, 0, 0.9);
+	    border-radius: 15px;
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .event-featured-image-wrap{
+	display:none;
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content{
+	width:100%;
+	margin-left: 0;
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .content-entry {
+        width: calc(80% - 120px);
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .content-entry .church-event-adress{
+	text-overflow: ellipsis;
+   white-space: nowrap;
+	    overflow: hidden;
+    width: 100%;
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .content-entry .title-link .title{
+	color:#fff;
+	text-overflow: ellipsis;
+   white-space: nowrap;
+	    overflow: hidden;
+    width: 100%;
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .readmore-link{
+	width: 120px;
+    height: 40px;
+    line-height: 40px!important;
+    text-align: center !important;
+}
+#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .event-start-date .date-entry .date-entry-inner .d-d {
+    line-height: 46px !important;
+}
+@media only screen and (max-width: 768px){
+	#page .revslider-initialised .wpb_theme_custom_element.wpb_events_church .post-event-item .item-inner.layout-default .church-event-content .readmore-link {
+    line-height: 40px !important;
+}
+}
+.au-involved {
+    z-index: 9;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.bt-fullwidth{
+	position: unset;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .mega-menu .mega-menu-row .mega-menu-col > a span{
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 30px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .mega-menu .mega-menu-row .mega-menu-col > .sub-menu li:not(:last-child){
+	border-bottom: 1px solid rgba(51, 51, 51, 0.05);
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .mega-menu .mega-menu-row .mega-menu-col > .sub-menu li .menu-item-custom-wrap{
+	padding: 0 20px;
+  margin-top: 20px;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .fw-side-posts-list li .fw-widget-post-image{
+	width: 70px;
+	height: 70px;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .fw-side-posts-list li .posts-content {
+    width: calc(100% - 86px);
+    white-space: normal;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .fw-side-posts-list li:not(:last-child){
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .fw-side-posts-list li .posts-content a{
+	font-size: 16px;
+	line-height: 24px;
+	margin-bottom: 0;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .fw-side-posts-list li .posts-content .post-date{
+	font-size: 15px !important;
+	line-height: 26px;
+	margin-bottom: 0;
+}
+
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .widget_media_gallery{
+	white-space: normal;
+}
+.bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation > ul.bt-nav-menu li.menu-item.menu-item-has-mega-menu .widget_media_gallery .gallery.gallery-columns-3 .gallery-item{
+	margin-bottom: 0;
+	padding: 2px;
+}
+
+@-webkit-keyframes pulse-border{0%{-webkit-transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1);transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1);opacity:1}100%{-webkit-transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1.5);transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1.5);opacity:0}}
+@keyframes pulse-border{0%{-webkit-transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1);transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1);opacity:1}100%{-webkit-transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1.5);transform:translateX(-50%) translateY(-50%) translateZ(0) scale(1.5);opacity:0}}
+.bg-video-mega .vc_icon_element > .vc_icon_element-inner:before {
+    content: "";
+    position: absolute;
+    z-index: 0;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    display: block;
+    width: 60px;
+    height: 60px;
+    background: $accent-color repeat scroll 0 0;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-animation: pulse-border 1500ms ease-out infinite;
+    animation: pulse-border 1500ms ease-out infinite;
+}
+.bg-video-mega .vc_icon_element > .vc_icon_element-inner:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    display: block;
+    width: 60px;
+    height: 60px;
+    //background: #4ac4f3 repeat scroll 0 0;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    transition: all 200ms;
+    -webkit-transition: all 200ms;
+    -moz-transition: all 200ms;
+    -ms-transition: all 200ms;
+    -o-transition: all 200ms;
+}
+.bg-video-mega .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-color-blue .vc_icon_element-icon {
+    color: #fff;
+}
+.bg-video-mega .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-color-blue .vc_icon_element-icon::before {
+    font-size: 45px !important;
+}

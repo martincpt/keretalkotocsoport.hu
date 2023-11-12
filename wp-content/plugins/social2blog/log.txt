@@ -1,0 +1,107 @@
+ [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[{"_id":{"$oid":"5f3a3f942a76682f590022d2"},"title":"Curabitur ut tincidunt dolor. Aliquam","content":"Curabitur ut tincidunt dolor. Aliquam in orci justo. Nullam in elementum augue. Maecenas semper lacinia mauris, quis eleifend leo pharetra vel. Duis vitae augue in nibh porttitor blandit vel sed tellus. Sed congue mauris nec ante semper, eu porttitor elit tincidunt. Integer suscipit in ante a dapibus. Etiam quis nisi ante. ","category":"facebook","source":"facebook","featured":"","featured_name":"","post_id":"308743702553372_3251782258249487","api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","social2blog_post_id":24580,"retrieve_date":"2020-08-17T08:28:04+00:00","updated_time":"2020-08-17T08:24:00+0000","created_time":"2020-08-17T08:24:00+0000","other_tags":"","link":""}]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/class.social2blog-serverdownload.php->createPost() [93]: --> Creazione post  <--
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/class.social2blog-serverdownload.php->createPost() [93]: stdClass Object
+(
+    [_id] => stdClass Object
+        (
+            [$oid] => 5f3a3f942a76682f590022d2
+        )
+
+    [title] => Curabitur ut tincidunt dolor. Aliquam
+    [content] => Curabitur ut tincidunt dolor. Aliquam in orci justo. Nullam in elementum augue. Maecenas semper lacinia mauris, quis eleifend leo pharetra vel. Duis vitae augue in nibh porttitor blandit vel sed tellus. Sed congue mauris nec ante semper, eu porttitor elit tincidunt. Integer suscipit in ante a dapibus. Etiam quis nisi ante. 
+    [category] => facebook
+    [source] => facebook
+    [featured] => 
+    [featured_name] => 
+    [post_id] => 308743702553372_3251782258249487
+    [api_key] => c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4
+    [social2blog_post_id] => 24580
+    [retrieve_date] => 2020-08-17T08:28:04+00:00
+    [updated_time] => 2020-08-17T08:24:00+0000
+    [created_time] => 2020-08-17T08:24:00+0000
+    [other_tags] => 
+    [link] => 
+)
+
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: 
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: Risposta del server getPost()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [759]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: Risposta server getEvents()
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [760]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php->social2blog_checknewpost() [287]: !-- CHECK NEW POST/EVENT SCHEDULED --!

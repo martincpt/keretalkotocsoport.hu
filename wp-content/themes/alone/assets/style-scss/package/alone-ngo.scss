@@ -1,0 +1,46 @@
+.custom-ui-donate-form-homepage{}
+.custom-ui-donate-form-homepage .give-goal-progress{
+    margin-bottom: 10px;
+}
+.custom-ui-donate-form-homepage .give-goal-progress .raised{
+    margin-bottom: 5px;
+}
+.custom-ui-donate-form-homepage .give-goal-progress .raised,
+.custom-ui-donate-form-homepage .give-goal-progress .raised .income{
+    color: #fff;
+    font-family: 'raleway';
+    font-weight: 300;
+}
+
+.custom-ui-donate-form-homepage button.give-btn{
+    font-size: 11px;
+    display: block;
+    width: 100%;
+    padding: 16px;
+    background: #FC9700;
+    transition: .3s ease;
+    -webkit-transition: .3s ease;
+}
+.custom-ui-donate-form-homepage button.give-btn:hover{
+    background: #EF9000;
+}
+
+.colum-custom-css-margin-top{
+    margin-top: -200px;
+}
+
+@media (max-width: 767px) {
+    .colum-custom-css-margin-top{
+        margin-top: 20px;
+    }
+    .gap-cl{
+      .vc_column-inner{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        margin-bottom: 15px !important;
+        .vc_btn3-right{
+          text-align: center;
+        }
+      }
+    }
+}

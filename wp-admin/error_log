@@ -1,0 +1,186 @@
+[01-Aug-2020 16:09:37 UTC] WordPress adatbázis hiba Unknown column 'wp_' in 'field list' a lekérdezésben SELECT wp_
+[03-Aug-2020 07:35:54 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 07:36:07 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 07:37:13 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 07:46:35 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 07:48:32 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 08:24:19 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 08:25:30 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 08:26:07 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 08:27:52 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 09:05:44 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 13:29:28 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 13:51:34 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[03-Aug-2020 13:53:06 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[11-Aug-2020 09:12:46 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[11-Aug-2020 09:49:50 UTC] PHP Warning:  Creating default object from empty value in /home/martslkt/keretalkotocsoport.hu/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/hooks.php on line 125
+[14-Aug-2020 11:02:36 UTC] [Loco.warning] "Child theme declares the same Text Domain as the parent theme" in src/error/AdminNotices.php:87
+[14-Aug-2020 13:59:12 UTC] PHP Warning:  A non-numeric value encountered in /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/FFDBManager.php on line 30
+[14-Aug-2020 13:59:21 UTC] 
+[14-Aug-2020 13:59:21 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\LABase->processAjaxRequestBackground('')
+#6 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(191): do_action('wp_ajax_nopriv_...')
+#9 {main}
+[14-Aug-2020 13:59:21 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/FFDBManager.php on line 120
+[14-Aug-2020 13:59:44 UTC] PHP Warning:  A non-numeric value encountered in /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/FFDBManager.php on line 30
+[14-Aug-2020 14:00:01 UTC] 
+[14-Aug-2020 14:00:01 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(430): flow\LABase->processAjaxRequestBackground()
+#6 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(139): flow\db\LADBManager->refreshCache4Source('bd76476', false)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\db\LADBManager->save_sources_settings('')
+#8 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#9 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#10 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(176): do_action('wp_ajax_flow_fl...')
+#11 {main}
+[14-Aug-2020 14:00:12 UTC] 
+[14-Aug-2020 14:00:12 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(430): flow\LABase->processAjaxRequestBackground()
+#6 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(139): flow\db\LADBManager->refreshCache4Source('bd76476', false)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\db\LADBManager->save_sources_settings('')
+#8 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#9 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#10 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(176): do_action('wp_ajax_flow_fl...')
+#11 {main}
+[14-Aug-2020 14:00:24 UTC] 
+[14-Aug-2020 14:00:24 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\LABase->processAjaxRequestBackground('')
+#6 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(191): do_action('wp_ajax_nopriv_...')
+#9 {main}
+[14-Aug-2020 14:00:25 UTC] 
+[14-Aug-2020 14:00:25 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\LABase->processAjaxRequestBackground('')
+#6 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(191): do_action('wp_ajax_nopriv_...')
+#9 {main}
+[14-Aug-2020 14:01:01 UTC] 
+[14-Aug-2020 14:01:01 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(430): flow\LABase->processAjaxRequestBackground()
+#6 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(139): flow\db\LADBManager->refreshCache4Source('bd76476', false)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\db\LADBManager->save_sources_settings('')
+#8 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#9 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#10 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(176): do_action('wp_ajax_flow_fl...')
+#11 {main}
+[14-Aug-2020 14:01:18 UTC] 
+[14-Aug-2020 14:01:18 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(430): flow\LABase->processAjaxRequestBackground()
+#6 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/db/LADBManager.php(139): flow\db\LADBManager->refreshCache4Source('bd76476', false)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\db\LADBManager->save_sources_settings('')
+#8 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#9 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#10 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(176): do_action('wp_ajax_flow_fl...')
+#11 {main}
+[14-Aug-2020 14:01:24 UTC] 
+[14-Aug-2020 14:01:24 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\LABase->processAjaxRequestBackground('')
+#6 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(191): do_action('wp_ajax_nopriv_...')
+#9 {main}
+[14-Aug-2020 14:01:25 UTC] 
+[14-Aug-2020 14:01:25 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\LABase->processAjaxRequestBackground('')
+#6 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(191): do_action('wp_ajax_nopriv_...')
+#9 {main}
+[14-Aug-2020 14:02:20 UTC] 
+[14-Aug-2020 14:02:20 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\LABase->processAjaxRequestBackground('')
+#6 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(191): do_action('wp_ajax_nopriv_...')
+#9 {main}
+[14-Aug-2020 14:02:21 UTC] 
+[14-Aug-2020 14:02:21 UTC] #0 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/social/FFBaseFeed.php(111): flow\social\FFHttpRequestFeed->onePagePosts()
+#1 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheManager.php(58): flow\social\FFBaseFeed->posts(true)
+#2 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/cache/FFCacheAdapter.php(36): flow\cache\FFCacheManager->posts(Array, false)
+#3 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(365): flow\cache\FFCacheAdapter->posts(Array, false)
+#4 /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/includes/LABase.php(148): flow\LABase->process4feeds(Array, false, true)
+#5 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(287): flow\LABase->processAjaxRequestBackground('')
+#6 /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /home/martslkt/keretalkotocsoport.hu/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/martslkt/keretalkotocsoport.hu/wp-admin/admin-ajax.php(191): do_action('wp_ajax_nopriv_...')
+#9 {main}
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  fopen(/home/martslkt/keretalkotocsoport.hu/wp-content/plugins/flow-flow-social-streams/flow-flow.php): failed to open stream: No such file or directory in /home/martslkt/keretalkotocsoport.hu/wp-includes/functions.php on line 6023
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home/martslkt/keretalkotocsoport.hu/wp-includes/functions.php on line 6026
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/martslkt/keretalkotocsoport.hu/wp-includes/functions.php on line 6029
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  fopen(/home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php): failed to open stream: No such file or directory in /home/martslkt/keretalkotocsoport.hu/wp-includes/functions.php on line 6023
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home/martslkt/keretalkotocsoport.hu/wp-includes/functions.php on line 6026
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/martslkt/keretalkotocsoport.hu/wp-includes/functions.php on line 6029
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  include_once(/home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php): failed to open stream: No such file or directory in /home/martslkt/keretalkotocsoport.hu/wp-admin/includes/plugin.php on line 1271
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  include_once(): Failed opening '/home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/martslkt/keretalkotocsoport.hu/wp-admin/includes/plugin.php on line 1271
+[14-Aug-2020 14:04:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'social2blog_uninstall' not found or invalid function name in /home/martslkt/keretalkotocsoport.hu/wp-includes/class-wp-hook.php on line 287
+[16-Aug-2020 10:04:21 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: Risposta del server getPost()
+[16-Aug-2020 10:04:21 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[16-Aug-2020 10:04:21 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: Risposta server getEvents()
+[16-Aug-2020 10:04:21 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[16-Aug-2020 10:09:31 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: Risposta del server getPost()
+[16-Aug-2020 10:09:31 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_posts() [346]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","posts":[]}}
+[16-Aug-2020 10:09:31 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: Risposta server getEvents()
+[16-Aug-2020 10:09:31 UTC] [DEBUG] /home/martslkt/keretalkotocsoport.hu/wp-content/plugins/social2blog/social2blog_plugin.php->get_events() [347]: {"state":"success","message":"","body":{"api_key":"c7f70db8a55f03d560066cde28305b1a96f66a9f85c2e1c190f48c1cb7583ec4","events":[]}}
+[22-Jan-2021 11:06:47 UTC] Connection refused
+[09-Sep-2021 22:04:16 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[09-Sep-2021 23:04:12 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 00:04:13 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 01:04:12 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 02:04:37 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 03:04:02 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 04:03:55 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 05:03:50 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 06:03:48 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 07:03:55 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 08:04:15 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 09:04:01 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 10:04:25 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 11:04:22 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 12:04:15 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 13:04:19 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 14:04:09 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 15:04:08 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 16:04:25 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32

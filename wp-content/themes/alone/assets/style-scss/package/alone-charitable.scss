@@ -1,0 +1,170 @@
+.wpb_carousel_blog_card.bt-huminity .owl-carousel .owl-item .item .item-inner{
+	display:none !important;
+}
+.underlined-style1:before {
+    background: #333 none repeat scroll 0 0;
+    bottom: 20px;
+    content: "";
+    height: 1px;
+    left: calc(50% + 20px);
+    position: absolute;
+    width: 150px;
+    box-shadow: -190px 0 0 0;
+}
+.underlined-style1:after {
+    content: "\f18c";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 18px;
+    position: absolute;
+    bottom: 0;
+	  line-height: 42px;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+}
+#page .charitable-event .wpb_theme_custom_element.wpb_events_listing .post-event-item .item-inner.layout-default .content-entry {
+    padding: 5px 40px;
+}
+#page .charitable-event .wpb_theme_custom_element.wpb_events_listing .post-event-item .item-inner.layout-default .event-featured-image-wrap:after, #page .charitable-event .wpb_theme_custom_element.wpb_events_listing .post-event-item .item-inner.layout-default .event-featured-image-wrap:before{
+	content:none;
+}
+.charitable-event .event-featured-image-wrap{
+-webkit-box-shadow: 0px 0px 18px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 18px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 18px 1px rgba(0,0,0,0.75);
+}
+#page .charitable-event .wpb_theme_custom_element.wpb_events_listing .post-event-item:not(:last-child) .layout-default {
+    margin-bottom: 54px;
+}
+#page .charitable-event .wpb_theme_custom_element.wpb_events_listing .post-event-item .item-inner.layout-default .content-entry .event-term-list a {
+    padding-left: 3px;
+}
+#page .charitable-event .wpb_theme_custom_element.wpb_events_listing .post-event-item .item-inner.layout-default .content-entry .event-term-list {
+    background: #1ca3cc none repeat scroll 0 0;
+	color: #fff;
+}
+#page .charitable-event .wpb_theme_custom_element.wpb_events_listing .post-event-item .item-inner.layout-default .content-entry .event-start-time {
+	letter-spacing: 1px;
+}
+.bg-single-wrap .bg-single {
+    margin-top: 60px;
+}
+#page .wpb_theme_custom_element.wpb_featured_box .vc-custom-inner-wrap .featured-box-alignment:hover .icon-wrap .type-icon.graphic-shape-square{
+	-webkit-box-shadow: 0px 0px 51px 0px rgba(28,163,204,1);
+-moz-box-shadow: 0px 0px 51px 0px rgba(28,163,204,1);
+box-shadow: 0px 0px 51px 0px rgba(28,163,204,1);
+}
+.tbbs-button > button,.tbbs-button > a {
+    border: 2px solid #1ca3cc !important;
+    border-radius: 2px !important;
+    display: inline-block !important;
+    font-size: 11px !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: montserrat;
+    transition: all 0.3s ease 0s !important;
+    -webkit-transition: all 0.3s ease 0s !important;
+}
+.tbbs-button > button:after,.tbbs-button > a:after {
+    content: "";
+    position: absolute;
+    left: 3%;
+    top: 6px;
+    width: 94%;
+    height: 94%;
+    background: #1ca3cc;
+    z-index: -1;
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    transform: translateZ(0) scale(1,1);
+    -webkit-transform: translateZ(0) scale(1,1);
+	    opacity: 0;
+    border-radius: 2px;
+}
+.tbbs-button > button:hover:after,.tbbs-button > a:hover:after {
+    opacity: 1;
+}
+.but-counter > button {
+    border: 1px solid rgba(255,255,255,0.2) !important;
+    color: #FFFFFF !important;
+    font-size: 14px !important;
+    font-weight: 400;
+    letter-spacing: 0.16px;
+    margin-bottom: 0;
+    padding: 13px 27px !important;
+	background:transparent !important;
+	border-radius:0 !important;
+}
+.bg-owl-carousel .owl-nav .owl-next {
+    right: 0px;
+    padding-left: 2px;
+}
+.bg-owl-carousel .owl-nav .owl-prev {
+    left: 0px;
+    padding-right: 2px;
+}
+.bg--wrapper.lily .bg--item .description > a {
+    font-size: 15px;
+}
+.bg-team-wrapper .bg--item .info .heading a {
+    font: 20px "Montserrat","Open Sans","Arial",sans-serif;
+    font-weight: 700;
+}
+.bg--wrapper .info .bg-skill ul li .skill-name {
+    top: -20px;
+    font-size: 15px;
+}
+.bg--wrapper .info .bg-skill ul {
+    padding: 40px 20px;
+}
+.bg-team-wrapper.lily .bg--item .info {
+	padding: 80px 10px;
+}
+.bg-team-wrapper.lily .bg--item .info .heading {
+    bottom: 100px;
+    padding: 10px 0px 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.bg-team-wrapper.lily .bg--item .info .description {
+    bottom: 25px;
+    position: absolute;
+    margin-left: 10px;
+}
+.bg-team-wrapper.lily .bg--item .info .description p{
+    line-height: 25px;
+    letter-spacing: -1px;
+    font-size: 15px;
+}
+.bg-team-wrapper.lily .bg--item .info .description p a{
+    color:#1ca3cc;
+}
+#page .wpb_theme_custom_element.wpb_events_listing .post-event-item .item-inner.layout-default .content-entry .event-term-list a {
+    letter-spacing: 1px;
+}
+.bg--wrapper .bg-light-gallery .bg--item .info .zoom {
+	width: 25px;
+}
+@media only screen and (max-width: 992px){
+  #main .event-bt{
+      padding-bottom: 70px !important;
+  }
+}
+@media only screen and (max-width: 767px){
+	.bt-grid .bg--wrapper .bg--item{
+		width: calc((100% - 14px) / 3) !important;
+		padding: 7px;
+	}
+}
+@media only screen and (max-width: 1200px) and (min-width: 992px){
+  .bg-team-wrapper.lily .bg--item .info .heading {
+    padding: 10px 0px 45px;
+}
+}
+.sweet-overlay{display: none !important;}
+.showSweetAlert{display: none !important;}

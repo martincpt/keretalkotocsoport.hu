@@ -1,0 +1,59 @@
+.but-com > a {
+    text-transform: uppercase;
+    font-size: 14px !important;
+	font-weight:700 !important;
+    height: 50px;
+    line-height: 50px !important;
+    padding: 0 35px !important;
+}
+.but-com > a:hover {
+    background:#000 !important;
+	color:#fff !important;
+	opacity: 1 !important;
+}
+.but-com.b > a:hover {
+    background:#fff !important;
+	color:#000 !important;
+}
+#page .wpb_theme_custom_element.wpb_featured_box.bt-box-com .vc-custom-inner-wrap .featured-box-alignment .entry-box-wrap .featured-box-title {
+    letter-spacing: 0;
+    margin-bottom: 0px;
+    font-size: 32px !important;
+}
+.bt-wantto > a{
+	background:transparent !important;
+    padding-left: 60px !important;
+    font-size: 16px !important;
+    font-weight: 700;
+}
+.bt-wantto > a i{
+	  background: #347d7a;
+    width: 30px;
+    height: 30px !important;
+    line-height: 30px !important;
+    text-align: center;
+    border-radius: 100%;
+}
+.bt-re-com .bt-excerpt{
+	color: #666666 !important;
+  font-style: italic;
+  font-size: 18px !important;
+}
+.bt-re-com .bt-info-review .bt-thumb{
+	width: 70px !important;
+ 	height: 70px !important;
+ 	padding: 5px;
+  border: #555 dashed 1px;
+}
+.bt-re-com .bt-name-position .bt-title{
+	font-size: 26px !important;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #444 !important;
+}
+.bt-re-com .bt-name-position .bt-position{
+	font-size: 16px !important;
+  font-weight: 500 !important;
+  color: #347d7a !important;
+  font-style: normal !important;
+}
