@@ -72,6 +72,7 @@ $table_prefix = 'wp_';
 define('WP_DEBUG', false);
 
 /* Ennyi volt, kellemes blogolást! */
+/* That's all, stop editing! Happy publishing. */
 
 /** A WordPress könyvtár abszolút elérési útja. */
 if ( !defined('ABSPATH') )
