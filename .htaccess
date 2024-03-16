@@ -4,7 +4,13 @@
 RewriteEngine on
 CacheLookup on
 RewriteRule .* - [E=Cache-Control:no-autoflush]
-RewriteRule \.object-cache\.ini - [F,L]
+RewriteRule \.litespeed_conf\.dat - [F,L]
+
+### marker ASYNC start ###
+RewriteCond %{REQUEST_URI} /wp-admin/admin-ajax\.php
+RewriteCond %{QUERY_STRING} action=async_litespeed
+RewriteRule .* - [E=noabort:1]
+### marker ASYNC end ###
 
 ### marker CACHE RESOURCE start ###
 RewriteRule wp-content/.*/[^/]*(responsive|css|js|dynamic|loader|fonts)\.php - [E=cache-control:max-age=3600]
