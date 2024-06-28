@@ -1,5 +1,5 @@
 <?php
-define( 'WP_CACHE', true );
+
 /**
  * A WordPress fő konfigurációs állománya
  *
@@ -18,13 +18,13 @@ define( 'WP_CACHE', true );
 
 // ** MySQL beállítások - Ezeket a szolgálatótól lehet beszerezni ** //
 /** Adatbázis neve */
-define( 'DB_NAME', 'martintr_keretalkotocsoport_hu' );
+define( 'DB_NAME', 'keretalkotocsoport.hu_master' );
 
 /** MySQL felhasználónév */
-define( 'DB_USER', 'martintr_keretalkotocsoport_hu' );
+define( 'DB_USER', 'keretalkotocsoport.hu_master' );
 
 /** MySQL jelszó. */
-define( 'DB_PASSWORD', '&3+e&(hZTTTs#vC#80' );
+define( 'DB_PASSWORD', '*/bwKf&[vRRJ8pM)' );
 
 /** MySQL  kiszolgáló neve */
 define( 'DB_HOST', 'localhost' );
